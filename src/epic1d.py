@@ -308,16 +308,85 @@ if __name__ == "__main__":
     # Detect the peak
     harmonic = np.array(s.firstharmonic)
     t = np.array(s.t)
-
     peaks, _ = find_peaks(harmonic)
     peak_times = t[peaks]
     peak_amps = harmonic[peaks]
+
+    # Identify when noise dominates and split data
+    noise_start_index = None
+    for i in range(1, len(peak_amps)):
+        if peak_amps[i] > peak_amps[i-1]:     # Noise now dominates
+            noise_start_index = i
+            break
+    if noise_start_index is None:
+        # No noise detected (rare case)
+        signal = peak_amps.copy()
+        noise  = np.array([])
+        signal_times = peak_times.copy()
+        noise_times  = np.array([])
+    else:
+        signal = peak_amps[:noise_start_index]
+        noise  = peak_amps[noise_start_index:]
+        signal_times = peak_times[:noise_start_index]
+        noise_times  = peak_times[noise_start_index:]
+
+    # Save signal/noise data
+    np.savetxt(os.path.join(results_dir, "signal_peaks.txt"),
+            np.column_stack([signal_times, signal]),
+            header="time amplitude")
+
+    np.savetxt(os.path.join(results_dir, "noise_peaks.txt"),
+            np.column_stack([noise_times, noise]),
+            header="time amplitude")
+
     # Save peak data
     np.savetxt(os.path.join(results_dir, "peak_times.txt"), peak_times)
     np.savetxt(os.path.join(results_dir, "peak_amplitudes.txt"), peak_amps)
 
+    # Frequency measurement from signal peak spacing
+    if len(signal_times) > 2:
+        dt_peaks = np.diff(signal_times)
+
+        mean_dt = np.mean(dt_peaks)
+        std_dt  = np.std(dt_peaks, ddof=1)
+
+        omega = 2 * np.pi / mean_dt
+        omega_err = 2 * np.pi * std_dt / (mean_dt**2)
+
+        np.savetxt(
+            os.path.join(results_dir, "frequency.txt"),
+            np.array([omega, omega_err]),
+            header="omega omega_err"
+        )
+
+    print(f"Measured ω = {omega:.3f} ± {omega_err:.3f}")
+
+    #   4. Fit exponential damping on signal region only
+    # A(t) = A0 * exp(-d t)
+    if len(signal) > 2:
+        log_signal = np.log(signal)
+        coeffs = np.polyfit(signal_times, log_signal, 1)
+        slope, intercept = coeffs    # slope ≈ –damping_rate
+
+        fitted_curve = np.exp(intercept + slope * signal_times)
+
+        # Estimate uncertainty (standard error) of slope
+        residuals = log_signal - (slope*signal_times + intercept)
+        sigma2 = np.sum(residuals**2) / (len(signal_times) - 2)
+        # cov = sigma2 * np.linalg.inv(np.dot(np.vstack([signal_times, np.ones(len(signal_times))]),
+        # np.vstack([signal_times, np.ones(len(signal_times))]).T))
+        X = np.vstack([signal_times, np.ones(len(signal_times))]).T
+        cov = sigma2 * np.linalg.inv(X.T @ X)
+        slope_error = np.sqrt(cov[0,0])
+        gamma = -slope
+        gamma_err = slope_error
+
+        np.savetxt(os.path.join(results_dir, "damping_rate.txt"), np.array([gamma, gamma_err]))
+
+
     # Summary stores an array of the first-harmonic amplitude
     # Make a semilog plot to see exponential damping
+    #1. Raw plot
     plt.figure()
     plt.plot(s.t, s.firstharmonic)
     plt.xlabel("Time [Normalised]")
@@ -327,7 +396,7 @@ if __name__ == "__main__":
     plot_path = os.path.join(results_dir, "plot.png")
     plt.savefig(plot_path, dpi=150)    
     
-    #Plot the peaks detection
+    #2. Plot the peaks detection
     plt.figure(figsize=(8,5))
     plt.plot(t, harmonic, label="First Harmonic Amplitude")
     plt.scatter(peak_times, peak_amps, color='red', s=50, zorder=3, label="Detected Peaks")
@@ -340,6 +409,36 @@ if __name__ == "__main__":
     # Save the plot with peaks detection
     peak_plot_path = os.path.join(results_dir, "peak_plot.png")
     plt.savefig(peak_plot_path, dpi=150)    
+    
+
+    # 3. Plot signal-only region vs noise-only region
+    plt.figure(figsize=(8,5))
+    plt.plot(peak_times, peak_amps, marker='x', label="Peaks (all)")
+    plt.scatter(signal_times, signal, color="green", s=60, label="Signal Region")
+    plt.scatter(noise_times,  noise,  color="red",   s=60, label="Noise Region")
+    plt.yscale('log')
+    plt.xlabel("Time")
+    plt.ylabel("Peak Amplitude")
+    plt.title("Signal vs Noise Peaks")
+    plt.legend()
+    plt.grid(True, alpha=0.3)
+
+    signal_noise_plot = os.path.join(results_dir, "signal_vs_noise.png")
+    plt.savefig(signal_noise_plot, dpi=150)
+
+    #Plot exponential damping on signal region only
+    plt.figure(figsize=(8,5))
+    plt.scatter(signal_times, signal, label="Signal peaks", color='blue')
+    plt.plot(signal_times, fitted_curve, '--', label=f"Fit: γ = {-slope:.3f}")
+    plt.yscale('log')
+    plt.xlabel("Time")
+    plt.ylabel("Peak Amplitude")
+    plt.title("Exponential Fit to Damping Region")
+    plt.legend()
+    plt.grid(True, alpha=0.3)
+
+    fit_plot_path = os.path.join(results_dir, "signal_fit.png")
+    plt.savefig(fit_plot_path, dpi=150)
     
     plt.ioff() # This so that the windows stay open
 
