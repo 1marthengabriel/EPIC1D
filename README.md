@@ -1,2 +1,5 @@
+Computational Plasma Physics – 1D Electrostatic PIC (EPIC)
 Lab Book
-Computational Plasma Physics Lab – 1D Electrostatic PIC (EPIC)
+
+Written by Dr. David Dickinson
+Modified by Marthen Gabriel
