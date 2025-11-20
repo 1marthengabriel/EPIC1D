@@ -10,6 +10,8 @@ from numpy import arange, concatenate, zeros, linspace, floor, array, pi
 from numpy import sin, cos, sqrt, random, histogram, abs, sqrt, max
 
 import matplotlib.pyplot as plt # Matplotlib plotting library
+# For Peak detection
+from scipy.signal import find_peaks
 
 try:
     import matplotlib.gridspec as gridspec  # For plot layout grid
@@ -206,6 +208,9 @@ class Plot:
             self.vel_plot = plt.plot(vhist, vbins)[0]
         plt.ion()
         plt.show()
+        # Save the plot
+        plot_animation_path = os.path.join(results_dir, "plot_animation.tif")
+        plt.savefig(plot_animation_path, dpi=150)
         
     def __call__(self, pos, vel, ncells, L, t):
         d = calc_density(pos, ncells, L)
@@ -288,17 +293,29 @@ if __name__ == "__main__":
         pos, vel = landau(npart, L)
     
     # Create some output classes
-    # p = Plot(pos, vel, ncells, L) # This displays an animated figure - Slow!
+    p = Plot(pos, vel, ncells, L) # This displays an animated figure - Slow!
     s = Summary()                 # Calculates, stores and prints summary info
 
-    diagnostics_to_run = [s]   # Remove p to get much faster code!
+    diagnostics_to_run = [s,p]   # Remove p to get much faster code!
     
     # Run the simulation
     pos, vel = run(pos, vel, L, ncells, 
                    out = diagnostics_to_run,        # These are called each output step
                    output_times=linspace(0.,20,50)) # The times to output
+    # Save data
     np.savetxt(os.path.join(results_dir, "time.txt"), np.array(s.t))
     np.savetxt(os.path.join(results_dir, "harmonic.txt"), np.array(s.firstharmonic))
+    # Detect the peak
+    harmonic = np.array(s.firstharmonic)
+    t = np.array(s.t)
+
+    peaks, _ = find_peaks(harmonic)
+    peak_times = t[peaks]
+    peak_amps = harmonic[peaks]
+    # Save peak data
+    np.savetxt(os.path.join(results_dir, "peak_times.txt"), peak_times)
+    np.savetxt(os.path.join(results_dir, "peak_amplitudes.txt"), peak_amps)
+
     # Summary stores an array of the first-harmonic amplitude
     # Make a semilog plot to see exponential damping
     plt.figure()
@@ -306,8 +323,26 @@ if __name__ == "__main__":
     plt.xlabel("Time [Normalised]")
     plt.ylabel("First harmonic amplitude [Normalised]")
     plt.yscale('log')
+    # Save the plot
+    plot_path = os.path.join(results_dir, "plot.png")
+    plt.savefig(plot_path, dpi=150)    
+    
+    #Plot the peaks detection
+    plt.figure(figsize=(8,5))
+    plt.plot(t, harmonic, label="First Harmonic Amplitude")
+    plt.scatter(peak_times, peak_amps, color='red', s=50, zorder=3, label="Detected Peaks")
+    plt.yscale('log')
+    plt.xlabel("Time [Normalised]")
+    plt.ylabel("First Harmonic Amplitude [Normalised]")
+    plt.title("Harmonic Amplitude with Peak Detection")
+    plt.legend()
+
+    # Save the plot with peaks detection
+    peak_plot_path = os.path.join(results_dir, "peak_plot.png")
+    plt.savefig(peak_plot_path, dpi=150)    
     
     plt.ioff() # This so that the windows stay open
+
     plt.show()
     
     
