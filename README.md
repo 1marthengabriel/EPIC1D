@@ -5,4 +5,4 @@ Written by Dr. David Dickinson
 
 Modified by Marthen Gabriel
 
-Please clone this repository https://github.com/1marthengabriel/EPIC1D.git and use this command to run it: python3 epic1d.py
+Please clone this repository https://github.com/1marthengabriel/EPIC1D.git and use this command to run it: python3 src/epic1d.py for lab session 1-2 and python3 src/scan_epic1d.py for lab session 2-3
