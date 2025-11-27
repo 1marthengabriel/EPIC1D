@@ -330,6 +330,23 @@ if __name__ == "__main__":
         signal_times = peak_times[:noise_start_index]
         noise_times  = peak_times[noise_start_index:]
 
+    # ---------------------------------------------------------------
+    # Compute and save noise level (Session 1 requirement)
+    # ---------------------------------------------------------------
+    if len(noise) > 1:
+        noise_lvl = np.sqrt(np.mean(noise**2))
+    else:
+        noise_lvl = np.nan
+
+    np.savetxt(
+        os.path.join(results_dir, "noise_level.txt"),
+        np.array([noise_lvl]),
+        header="noise_rms"
+    )
+
+    print(f"Noise RMS = {noise_lvl}")
+
+
     # Save signal/noise data
     np.savetxt(os.path.join(results_dir, "signal_peaks.txt"),
             np.column_stack([signal_times, signal]),
@@ -342,6 +359,8 @@ if __name__ == "__main__":
     # Save peak data
     np.savetxt(os.path.join(results_dir, "peak_times.txt"), peak_times)
     np.savetxt(os.path.join(results_dir, "peak_amplitudes.txt"), peak_amps)
+
+    print(f"Measured noise = {noise}")
 
     # Frequency measurement from signal peak spacing
     if len(signal_times) > 2:
@@ -382,6 +401,7 @@ if __name__ == "__main__":
         gamma_err = slope_error
 
         np.savetxt(os.path.join(results_dir, "damping_rate.txt"), np.array([gamma, gamma_err]))
+        print(f"Measured y = {gamma:.3f} ± {gamma_err:.3f}")
 
 
     # Summary stores an array of the first-harmonic amplitude

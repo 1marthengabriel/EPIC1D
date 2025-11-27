@@ -1,0 +1,142 @@
+[2025-11-27 10:35:05] ===== Parameter scan STARTED =====
+[2025-11-27 10:35:05] Particle_list: [500, 1000, 5000, 20000]
+[2025-11-27 10:35:05] Cell_list: [10, 20, 40, 80]
+[2025-11-27 10:35:05] Length_list: [12.566370614359172, 18.84955592153876, 25.132741228718345, 31.41592653589793]
+[2025-11-27 10:35:05] Repeats per case: 5
+[2025-11-27 10:35:05] Starting case: Np=500, Nc=10, L=12.5664
+[2025-11-27 10:35:05] Finished case: Np=500, Nc=10, L=12.5664 | runtime=0.142s ± 0.012, noise=7.776e-02 ± 0.000e+00, omega=3.299 ± 0.000, gamma=0.146 ± 0.000
+[2025-11-27 10:35:05] Starting case: Np=500, Nc=10, L=18.8496
+[2025-11-27 10:35:06] Finished case: Np=500, Nc=10, L=18.8496 | runtime=0.131s ± 0.011, noise=1.237e-01 ± 0.000e+00, omega=2.199 ± 0.000, gamma=0.057 ± 0.000
+[2025-11-27 10:35:06] Starting case: Np=500, Nc=10, L=25.1327
+[2025-11-27 10:35:06] Finished case: Np=500, Nc=10, L=25.1327 | runtime=0.131s ± 0.014, noise=1.484e-01 ± 0.000e+00, omega=2.099 ± 0.000, gamma=0.045 ± 0.000
+[2025-11-27 10:35:06] Starting case: Np=500, Nc=10, L=31.4159
+[2025-11-27 10:35:06] Finished case: Np=500, Nc=10, L=31.4159 | runtime=0.128s ± 0.010, noise=1.889e-01 ± 0.000e+00, omega=2.053 ± 0.000, gamma=0.034 ± 0.000
+[2025-11-27 10:35:06] Starting case: Np=500, Nc=20, L=12.5664
+[2025-11-27 10:35:06] Finished case: Np=500, Nc=20, L=12.5664 | runtime=0.270s ± 0.020, noise=8.364e-02 ± 0.000e+00, omega=3.299 ± 0.000, gamma=0.159 ± 0.000
+[2025-11-27 10:35:06] Starting case: Np=500, Nc=20, L=18.8496
+[2025-11-27 10:35:07] Finished case: Np=500, Nc=20, L=18.8496 | runtime=0.220s ± 0.018, noise=1.115e-01 ± 0.000e+00, omega=2.368 ± 0.000, gamma=0.082 ± 0.000
+[2025-11-27 10:35:07] Starting case: Np=500, Nc=20, L=25.1327
+[2025-11-27 10:35:07] Finished case: Np=500, Nc=20, L=25.1327 | runtime=0.232s ± 0.016, noise=1.547e-01 ± 0.000e+00, omega=2.368 ± 0.000, gamma=0.059 ± 0.000
+[2025-11-27 10:35:07] Starting case: Np=500, Nc=20, L=31.4159
+[2025-11-27 10:35:07] Finished case: Np=500, Nc=20, L=31.4159 | runtime=0.198s ± 0.014, noise=1.935e-01 ± 0.000e+00, omega=nan ± nan, gamma=nan ± nan
+[2025-11-27 10:35:07] Starting case: Np=500, Nc=40, L=12.5664
+[2025-11-27 10:35:08] Finished case: Np=500, Nc=40, L=12.5664 | runtime=0.501s ± 0.032, noise=7.427e-02 ± 0.000e+00, omega=3.299 ± 0.000, gamma=0.156 ± 0.000
+[2025-11-27 10:35:08] Starting case: Np=500, Nc=40, L=18.8496
+[2025-11-27 10:35:08] Finished case: Np=500, Nc=40, L=18.8496 | runtime=0.405s ± 0.028, noise=1.081e-01 ± 0.000e+00, omega=2.368 ± 0.000, gamma=0.082 ± 0.000
+[2025-11-27 10:35:08] Starting case: Np=500, Nc=40, L=25.1327
+[2025-11-27 10:35:09] Finished case: Np=500, Nc=40, L=25.1327 | runtime=0.379s ± 0.023, noise=1.571e-01 ± 0.000e+00, omega=2.199 ± 0.000, gamma=0.030 ± 0.000
+[2025-11-27 10:35:09] Starting case: Np=500, Nc=40, L=31.4159
+[2025-11-27 10:35:09] Finished case: Np=500, Nc=40, L=31.4159 | runtime=0.361s ± 0.027, noise=1.936e-01 ± 0.000e+00, omega=nan ± nan, gamma=nan ± nan
+[2025-11-27 10:35:09] Starting case: Np=500, Nc=80, L=12.5664
+[2025-11-27 10:35:11] Finished case: Np=500, Nc=80, L=12.5664 | runtime=0.924s ± 0.079, noise=7.480e-02 ± 0.000e+00, omega=3.299 ± 0.000, gamma=0.158 ± 0.000
+[2025-11-27 10:35:11] Starting case: Np=500, Nc=80, L=18.8496
+[2025-11-27 10:35:11] Finished case: Np=500, Nc=80, L=18.8496 | runtime=0.768s ± 0.045, noise=1.106e-01 ± 0.000e+00, omega=2.368 ± 0.000, gamma=0.087 ± 0.000
+[2025-11-27 10:35:11] Starting case: Np=500, Nc=80, L=25.1327
+[2025-11-27 10:35:12] Finished case: Np=500, Nc=80, L=25.1327 | runtime=0.742s ± 0.051, noise=1.573e-01 ± 0.000e+00, omega=2.199 ± 0.000, gamma=0.041 ± 0.000
+[2025-11-27 10:35:12] Starting case: Np=500, Nc=80, L=31.4159
+[2025-11-27 10:35:13] Finished case: Np=500, Nc=80, L=31.4159 | runtime=0.683s ± 0.056, noise=1.927e-01 ± 0.000e+00, omega=nan ± nan, gamma=nan ± nan
+[2025-11-27 10:35:13] Starting case: Np=1000, Nc=10, L=12.5664
+[2025-11-27 10:35:14] Finished case: Np=1000, Nc=10, L=12.5664 | runtime=0.261s ± 0.018, noise=2.949e-02 ± 1.735e-18, omega=2.677 ± 0.000, gamma=0.173 ± 0.000
+[2025-11-27 10:35:14] Starting case: Np=1000, Nc=10, L=18.8496
+[2025-11-27 10:35:14] Finished case: Np=1000, Nc=10, L=18.8496 | runtime=0.208s ± 0.016, noise=8.364e-02 ± 0.000e+00, omega=2.199 ± 0.000, gamma=0.061 ± 0.000
+[2025-11-27 10:35:14] Starting case: Np=1000, Nc=10, L=25.1327
+[2025-11-27 10:35:14] Finished case: Np=1000, Nc=10, L=25.1327 | runtime=0.211s ± 0.013, noise=1.278e-01 ± 0.000e+00, omega=2.199 ± 0.000, gamma=0.033 ± 0.000
+[2025-11-27 10:35:14] Starting case: Np=1000, Nc=10, L=31.4159
+[2025-11-27 10:35:14] Finished case: Np=1000, Nc=10, L=31.4159 | runtime=0.194s ± 0.014, noise=1.572e-01 ± 0.000e+00, omega=2.123 ± 0.000, gamma=0.021 ± 0.000
+[2025-11-27 10:35:14] Starting case: Np=1000, Nc=20, L=12.5664
+[2025-11-27 10:35:15] Finished case: Np=1000, Nc=20, L=12.5664 | runtime=0.454s ± 0.031, noise=2.495e-02 ± 0.000e+00, omega=2.199 ± 0.000, gamma=0.127 ± 0.000
+[2025-11-27 10:35:15] Starting case: Np=1000, Nc=20, L=18.8496
+[2025-11-27 10:35:16] Finished case: Np=1000, Nc=20, L=18.8496 | runtime=0.388s ± 0.027, noise=8.072e-02 ± 0.000e+00, omega=2.281 ± 0.000, gamma=0.068 ± 0.000
+[2025-11-27 10:35:16] Starting case: Np=1000, Nc=20, L=25.1327
+[2025-11-27 10:35:16] Finished case: Np=1000, Nc=20, L=25.1327 | runtime=0.368s ± 0.019, noise=1.366e-01 ± 0.000e+00, omega=2.123 ± 0.000, gamma=0.035 ± 0.000
+[2025-11-27 10:35:16] Starting case: Np=1000, Nc=20, L=31.4159
+[2025-11-27 10:35:16] Finished case: Np=1000, Nc=20, L=31.4159 | runtime=0.346s ± 0.021, noise=1.548e-01 ± 0.000e+00, omega=2.123 ± 0.000, gamma=0.022 ± 0.000
+[2025-11-27 10:35:16] Starting case: Np=1000, Nc=40, L=12.5664
+[2025-11-27 10:35:17] Finished case: Np=1000, Nc=40, L=12.5664 | runtime=0.802s ± 0.039, noise=nan ± nan, omega=2.368 ± 0.000, gamma=0.119 ± 0.000
+[2025-11-27 10:35:17] Starting case: Np=1000, Nc=40, L=18.8496
+[2025-11-27 10:35:18] Finished case: Np=1000, Nc=40, L=18.8496 | runtime=0.743s ± 0.038, noise=8.383e-02 ± 0.000e+00, omega=2.281 ± 0.000, gamma=0.070 ± 0.000
+[2025-11-27 10:35:18] Starting case: Np=1000, Nc=40, L=25.1327
+[2025-11-27 10:35:19] Finished case: Np=1000, Nc=40, L=25.1327 | runtime=0.693s ± 0.046, noise=1.382e-01 ± 0.000e+00, omega=2.123 ± 0.000, gamma=0.035 ± 0.000
+[2025-11-27 10:35:19] Starting case: Np=1000, Nc=40, L=31.4159
+[2025-11-27 10:35:20] Finished case: Np=1000, Nc=40, L=31.4159 | runtime=0.649s ± 0.044, noise=1.456e-01 ± 0.000e+00, omega=2.123 ± 0.000, gamma=0.025 ± 0.000
+[2025-11-27 10:35:20] Starting case: Np=1000, Nc=80, L=12.5664
+[2025-11-27 10:35:22] Finished case: Np=1000, Nc=80, L=12.5664 | runtime=1.579s ± 0.116, noise=nan ± nan, omega=2.431 ± 0.000, gamma=0.131 ± 0.000
+[2025-11-27 10:35:22] Starting case: Np=1000, Nc=80, L=18.8496
+[2025-11-27 10:35:23] Finished case: Np=1000, Nc=80, L=18.8496 | runtime=1.365s ± 0.103, noise=8.335e-02 ± 0.000e+00, omega=2.281 ± 0.000, gamma=0.070 ± 0.000
+[2025-11-27 10:35:23] Starting case: Np=1000, Nc=80, L=25.1327
+[2025-11-27 10:35:25] Finished case: Np=1000, Nc=80, L=25.1327 | runtime=1.314s ± 0.085, noise=1.370e-01 ± 0.000e+00, omega=2.123 ± 0.000, gamma=0.035 ± 0.000
+[2025-11-27 10:35:25] Starting case: Np=1000, Nc=80, L=31.4159
+[2025-11-27 10:35:27] Finished case: Np=1000, Nc=80, L=31.4159 | runtime=1.232s ± 0.096, noise=1.452e-01 ± 0.000e+00, omega=2.123 ± 0.000, gamma=0.025 ± 0.000
+[2025-11-27 10:35:27] Starting case: Np=5000, Nc=10, L=12.5664
+[2025-11-27 10:35:28] Finished case: Np=5000, Nc=10, L=12.5664 | runtime=1.281s ± 0.088, noise=nan ± nan, omega=2.431 ± 0.000, gamma=0.151 ± 0.000
+[2025-11-27 10:35:28] Starting case: Np=5000, Nc=10, L=18.8496
+[2025-11-27 10:35:29] Finished case: Np=5000, Nc=10, L=18.8496 | runtime=1.115s ± 0.061, noise=6.814e-02 ± 0.000e+00, omega=2.281 ± 0.000, gamma=0.076 ± 0.000
+[2025-11-27 10:35:29] Starting case: Np=5000, Nc=10, L=25.1327
+[2025-11-27 10:35:31] Finished case: Np=5000, Nc=10, L=25.1327 | runtime=1.199s ± 0.066, noise=1.394e-01 ± 0.000e+00, omega=2.123 ± 0.000, gamma=0.027 ± 0.000
+[2025-11-27 10:35:31] Starting case: Np=5000, Nc=10, L=31.4159
+[2025-11-27 10:35:32] Finished case: Np=5000, Nc=10, L=31.4159 | runtime=1.093s ± 0.062, noise=1.776e-01 ± 0.000e+00, omega=nan ± nan, gamma=nan ± nan
+[2025-11-27 10:35:32] Starting case: Np=5000, Nc=20, L=12.5664
+[2025-11-27 10:35:35] Finished case: Np=5000, Nc=20, L=12.5664 | runtime=2.141s ± 0.144, noise=2.839e-02 ± 0.000e+00, omega=2.993 ± 0.000, gamma=0.163 ± 0.000
+[2025-11-27 10:35:35] Starting case: Np=5000, Nc=20, L=18.8496
+[2025-11-27 10:35:37] Finished case: Np=5000, Nc=20, L=18.8496 | runtime=1.931s ± 0.137, noise=8.636e-02 ± 0.000e+00, omega=2.281 ± 0.000, gamma=0.076 ± 0.000
+[2025-11-27 10:35:37] Starting case: Np=5000, Nc=20, L=25.1327
+[2025-11-27 10:35:39] Finished case: Np=5000, Nc=20, L=25.1327 | runtime=2.016s ± 0.072, noise=1.449e-01 ± 0.000e+00, omega=2.199 ± 0.000, gamma=0.028 ± 0.000
+[2025-11-27 10:35:39] Starting case: Np=5000, Nc=20, L=31.4159
+[2025-11-27 10:35:42] Finished case: Np=5000, Nc=20, L=31.4159 | runtime=2.235s ± 0.064, noise=1.795e-01 ± 0.000e+00, omega=2.123 ± 0.000, gamma=0.009 ± 0.000
+[2025-11-27 10:35:42] Starting case: Np=5000, Nc=40, L=12.5664
+[2025-11-27 10:35:47] Finished case: Np=5000, Nc=40, L=12.5664 | runtime=4.594s ± 0.160, noise=3.071e-02 ± 0.000e+00, omega=2.993 ± 0.000, gamma=0.158 ± 0.000
+[2025-11-27 10:35:47] Starting case: Np=5000, Nc=40, L=18.8496
+[2025-11-27 10:35:51] Finished case: Np=5000, Nc=40, L=18.8496 | runtime=3.804s ± 0.152, noise=8.678e-02 ± 0.000e+00, omega=2.368 ± 0.000, gamma=0.077 ± 0.000
+[2025-11-27 10:35:51] Starting case: Np=5000, Nc=40, L=25.1327
+[2025-11-27 10:35:55] Finished case: Np=5000, Nc=40, L=25.1327 | runtime=3.675s ± 0.135, noise=1.477e-01 ± 0.000e+00, omega=2.199 ± 0.000, gamma=0.027 ± 0.000
+[2025-11-27 10:35:55] Starting case: Np=5000, Nc=40, L=31.4159
+[2025-11-27 10:35:59] Finished case: Np=5000, Nc=40, L=31.4159 | runtime=3.526s ± 0.064, noise=1.809e-01 ± 0.000e+00, omega=2.123 ± 0.000, gamma=0.009 ± 0.000
+[2025-11-27 10:35:59] Starting case: Np=5000, Nc=80, L=12.5664
+[2025-11-27 10:36:09] Finished case: Np=5000, Nc=80, L=12.5664 | runtime=8.631s ± 0.381, noise=3.141e-02 ± 0.000e+00, omega=2.993 ± 0.000, gamma=0.158 ± 0.000
+[2025-11-27 10:36:09] Starting case: Np=5000, Nc=80, L=18.8496
+[2025-11-27 10:36:17] Finished case: Np=5000, Nc=80, L=18.8496 | runtime=7.353s ± 0.196, noise=8.733e-02 ± 0.000e+00, omega=2.368 ± 0.000, gamma=0.077 ± 0.000
+[2025-11-27 10:36:17] Starting case: Np=5000, Nc=80, L=25.1327
+[2025-11-27 10:36:25] Finished case: Np=5000, Nc=80, L=25.1327 | runtime=7.045s ± 0.213, noise=1.483e-01 ± 0.000e+00, omega=2.199 ± 0.000, gamma=0.027 ± 0.000
+[2025-11-27 10:36:25] Starting case: Np=5000, Nc=80, L=31.4159
+[2025-11-27 10:36:32] Finished case: Np=5000, Nc=80, L=31.4159 | runtime=6.511s ± 0.317, noise=1.824e-01 ± 0.000e+00, omega=2.123 ± 0.000, gamma=0.009 ± 0.000
+[2025-11-27 10:36:32] Starting case: Np=20000, Nc=10, L=12.5664
+[2025-11-27 10:36:38] Finished case: Np=20000, Nc=10, L=12.5664 | runtime=5.408s ± 0.248, noise=7.533e-03 ± 0.000e+00, omega=2.566 ± 0.000, gamma=0.235 ± 0.000
+[2025-11-27 10:36:38] Starting case: Np=20000, Nc=10, L=18.8496
+[2025-11-27 10:36:44] Finished case: Np=20000, Nc=10, L=18.8496 | runtime=4.780s ± 0.199, noise=7.239e-02 ± 0.000e+00, omega=2.281 ± 0.000, gamma=0.067 ± 0.000
+[2025-11-27 10:36:44] Starting case: Np=20000, Nc=10, L=25.1327
+[2025-11-27 10:36:49] Finished case: Np=20000, Nc=10, L=25.1327 | runtime=4.829s ± 0.122, noise=1.343e-01 ± 0.000e+00, omega=2.199 ± 0.000, gamma=0.020 ± 0.000
+[2025-11-27 10:36:49] Starting case: Np=20000, Nc=10, L=31.4159
+[2025-11-27 10:36:54] Finished case: Np=20000, Nc=10, L=31.4159 | runtime=4.510s ± 0.167, noise=1.697e-01 ± 0.000e+00, omega=nan ± nan, gamma=nan ± nan
+[2025-11-27 10:36:54] Starting case: Np=20000, Nc=20, L=12.5664
+[2025-11-27 10:37:06] Finished case: Np=20000, Nc=20, L=12.5664 | runtime=10.946s ± 0.173, noise=1.149e-02 ± 0.000e+00, omega=2.654 ± 0.000, gamma=0.222 ± 0.000
+[2025-11-27 10:37:06] Starting case: Np=20000, Nc=20, L=18.8496
+[2025-11-27 10:37:15] Finished case: Np=20000, Nc=20, L=18.8496 | runtime=8.720s ± 0.334, noise=7.811e-02 ± 0.000e+00, omega=2.368 ± 0.000, gamma=0.064 ± 0.000
+[2025-11-27 10:37:15] Starting case: Np=20000, Nc=20, L=25.1327
+[2025-11-27 10:37:24] Finished case: Np=20000, Nc=20, L=25.1327 | runtime=8.044s ± 0.272, noise=nan ± nan, omega=2.199 ± 0.000, gamma=0.013 ± 0.000
+[2025-11-27 10:37:24] Starting case: Np=20000, Nc=20, L=31.4159
+[2025-11-27 10:37:33] Finished case: Np=20000, Nc=20, L=31.4159 | runtime=7.833s ± 0.264, noise=1.754e-01 ± 0.000e+00, omega=nan ± nan, gamma=nan ± nan
+[2025-11-27 10:37:33] Starting case: Np=20000, Nc=40, L=12.5664
+[2025-11-27 10:37:56] Finished case: Np=20000, Nc=40, L=12.5664 | runtime=20.391s ± 0.707, noise=1.201e-02 ± 0.000e+00, omega=2.654 ± 0.000, gamma=0.218 ± 0.000
+[2025-11-27 10:37:56] Starting case: Np=20000, Nc=40, L=18.8496
+[2025-11-27 10:38:13] Finished case: Np=20000, Nc=40, L=18.8496 | runtime=14.941s ± 0.479, noise=7.911e-02 ± 0.000e+00, omega=2.368 ± 0.000, gamma=0.063 ± 0.000
+[2025-11-27 10:38:13] Starting case: Np=20000, Nc=40, L=25.1327
+[2025-11-27 10:38:29] Finished case: Np=20000, Nc=40, L=25.1327 | runtime=14.528s ± 0.372, noise=1.430e-01 ± 0.000e+00, omega=2.199 ± 0.000, gamma=0.018 ± 0.000
+[2025-11-27 10:38:29] Starting case: Np=20000, Nc=40, L=31.4159
+[2025-11-27 10:38:43] Finished case: Np=20000, Nc=40, L=31.4159 | runtime=13.767s ± 0.253, noise=1.769e-01 ± 0.000e+00, omega=nan ± nan, gamma=nan ± nan
+[2025-11-27 10:38:43] Starting case: Np=20000, Nc=80, L=12.5664
+[2025-11-27 10:39:26] Finished case: Np=20000, Nc=80, L=12.5664 | runtime=40.462s ± 0.772, noise=1.214e-02 ± 0.000e+00, omega=2.654 ± 0.000, gamma=0.217 ± 0.000
+[2025-11-27 10:39:26] Starting case: Np=20000, Nc=80, L=18.8496
+[2025-11-27 10:39:59] Finished case: Np=20000, Nc=80, L=18.8496 | runtime=30.436s ± 0.955, noise=7.926e-02 ± 0.000e+00, omega=2.368 ± 0.000, gamma=0.063 ± 0.000
+[2025-11-27 10:39:59] Starting case: Np=20000, Nc=80, L=25.1327
+[2025-11-27 10:40:28] Finished case: Np=20000, Nc=80, L=25.1327 | runtime=27.846s ± 0.473, noise=1.433e-01 ± 0.000e+00, omega=2.199 ± 0.000, gamma=0.018 ± 0.000
+[2025-11-27 10:40:28] Starting case: Np=20000, Nc=80, L=31.4159
+[2025-11-27 10:40:56] Finished case: Np=20000, Nc=80, L=31.4159 | runtime=27.390s ± 0.307, noise=1.773e-01 ± 0.000e+00, omega=nan ± nan, gamma=nan ± nan
+[2025-11-27 10:40:56] ===== Parameter scan FINISHED in 5.85 minutes =====
+[2025-11-27 10:40:56] Results CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/scan_runs/csv/scan_results.csv
+[2025-11-27 10:41:04] All plots generated and saved to: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/scan_runs/plots
+[2025-11-27 11:13:46] ===== Parameter scan STARTED =====
+[2025-11-27 11:13:46] Particle_list: [500, 1000, 5000, 20000]
+[2025-11-27 11:13:46] Cell_list: [10, 20, 40, 80]
+[2025-11-27 11:13:46] Length_list: [12.566370614359172, 18.84955592153876, 25.132741228718345, 31.41592653589793]
+[2025-11-27 11:13:46] Repeats per case: 5
+[2025-11-27 11:13:46] Starting case: Np=500, Nc=10, L=12.5664

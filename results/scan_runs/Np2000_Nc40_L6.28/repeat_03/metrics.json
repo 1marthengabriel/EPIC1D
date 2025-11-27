@@ -1,0 +1,14 @@
+{
+  "npart": 2000,
+  "ncells": 40,
+  "L": 6.283185307179586,
+  "repeat": 3,
+  "runtime": 2.8128302097320557,
+  "n_peaks_total": 8,
+  "n_signal_peaks": 1,
+  "noise_rms": 0.042390436788720946,
+  "omega": null,
+  "omega_err": null,
+  "gamma": null,
+  "gamma_err": null
+}
