@@ -1,0 +1,34 @@
+[2025-12-04 09:23:42] Starting two-stream scan (default)
+[2025-12-04 09:26:09] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default.csv
+[2025-12-04 09:26:10] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default.png
+[2025-12-04 09:26:10] Starting two-stream scan (narrow)
+[2025-12-04 09:28:52] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow.csv
+[2025-12-04 09:28:52] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow.png
+[2025-12-04 09:28:52] All scans complete.
+[2025-12-04 09:44:48] Starting two-stream scan (default)
+[2025-12-04 09:47:20] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default.csv
+[2025-12-04 09:47:21] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default.png
+[2025-12-04 09:47:21] Starting two-stream scan (narrow)
+[2025-12-04 09:50:09] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow.csv
+[2025-12-04 09:50:09] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow.png
+[2025-12-04 09:50:09] All scans complete.
+[2025-12-04 10:04:44] Starting two-stream scan (default)
+[2025-12-04 10:07:11] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default.csv
+[2025-12-04 10:07:12] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default.png
+[2025-12-04 10:07:12] Starting two-stream scan (narrow)
+[2025-12-04 10:09:55] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow.csv
+[2025-12-04 10:09:55] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow.png
+[2025-12-04 10:09:55] All scans complete.
+[2025-12-04 10:16:44] Starting two-stream scan (default)
+[2025-12-04 10:19:07] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default.csv
+[2025-12-04 10:19:08] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default.png
+[2025-12-04 10:22:09] Starting two-stream scan (default)
+[2025-12-04 10:24:32] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default.csv
+[2025-12-04 10:24:33] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default.png
+[2025-12-04 10:30:43] Starting two-stream scan (default)
+[2025-12-04 10:33:15] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default.csv
+[2025-12-04 10:33:16] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default.png
+[2025-12-04 10:33:16] Starting two-stream scan (narrow)
+[2025-12-04 10:36:01] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow.csv
+[2025-12-04 10:36:01] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow.png
+[2025-12-04 10:36:01] All scans complete.

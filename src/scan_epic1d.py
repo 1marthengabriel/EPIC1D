@@ -3,7 +3,6 @@
 scan_epic1d.py
 
 Parallel parameter-scan driver for epic1d.py
-Author: Marthen Gabriel
 PIC Lab — University of York
 
 Features:
@@ -155,9 +154,6 @@ def run_case(Np, Nc, L, repeats=5):
         sem.append(sem_val)
     sem = np.array(sem, dtype=float)
     
-    print(gamma+-gamma_err)
-    print(omega+-omega_err)
-    
     return mean, sem
 
 
@@ -261,12 +257,28 @@ def generate_plots(csv_path):
     df['Nc'] = df['Nc'].astype(float)
     df['L']  = df['L'].astype(float)
 
+    # Calculate overall statistics from the dataframe
+    runtime_mean = df['runtime'].mean()
+    runtime_err_mean = df['runtime_err'].mean()
+    noise_mean = df['noise'].mean()
+    noise_err_mean = df['noise_err'].mean()
+    omega_mean = df['omega'].mean()
+    omega_err_mean = df['omega_err'].mean()
+    gamma_mean = df['gamma'].mean()
+    gamma_err_mean = df['gamma_err'].mean()
+
+    print(f"Overall Runtime = {runtime_mean:.3f} ± {runtime_err_mean:.3f}")
+    print(f"Overall Noise = {noise_mean:.3e} ± {noise_err_mean:.3e}")
+    print(f"Overall Omega = {omega_mean:.3f} ± {omega_err_mean:.3f}")
+    print(f"Overall Gamma = {gamma_mean:.3f} ± {gamma_err_mean:.3f}")
+
     metrics = [
         ("runtime", "runtime_err"),
         ("noise", "noise_err"),
         ("omega", "omega_err"),
         ("gamma", "gamma_err")
     ]
+
 
     # 1) For each L: metric vs Np (curves per Nc)
     for Lval in sorted(df['L'].unique()):
