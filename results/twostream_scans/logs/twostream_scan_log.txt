@@ -32,3 +32,1393 @@
 [2025-12-04 10:36:01] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow.csv
 [2025-12-04 10:36:01] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow.png
 [2025-12-04 10:36:01] All scans complete.
+[2025-12-04 11:11:01] Starting two-stream scan (default)
+[2025-12-04 11:15:20] Starting two-stream scan (default)
+[2025-12-04 11:16:44] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default.csv
+[2025-12-04 11:16:45] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default.png
+[2025-12-04 11:16:45] Starting two-stream scan (narrow)
+[2025-12-04 11:18:13] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow.csv
+[2025-12-04 11:18:13] Saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow.png
+[2025-12-04 11:18:13] All scans complete.
+[2025-12-04 11:37:24] Starting two-stream scan (default)
+[2025-12-04 11:38:50] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default_summary.csv
+[2025-12-04 11:38:50] Saved plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default.png
+[2025-12-04 11:38:50] Starting two-stream scan (narrow)
+[2025-12-04 11:40:23] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow_summary.csv
+[2025-12-04 11:40:23] Saved plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow.png
+[2025-12-04 11:40:23] All scans complete.
+[2025-12-04 11:43:08] Starting two-stream scan (default)
+[2025-12-04 11:44:35] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default_summary.csv
+[2025-12-04 11:44:36] Saved plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default.png
+[2025-12-04 11:44:36] Starting two-stream scan (narrow)
+[2025-12-04 11:46:07] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow_summary.csv
+[2025-12-04 11:46:07] Saved plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow.png
+[2025-12-04 11:46:07] All scans complete.
+[2025-12-04 11:51:40] Starting two-stream scan (default)
+[2025-12-04 11:53:03] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default.csv
+[2025-12-04 11:53:03] Saved gamma plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma.png
+[2025-12-04 11:53:04] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_heatmap.png
+[2025-12-04 11:53:04] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_noise_floor_heatmap.png
+[2025-12-04 11:53:04] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_sat_time_heatmap.png
+[2025-12-04 11:53:04] Starting two-stream scan (narrow)
+[2025-12-04 11:54:35] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow.csv
+[2025-12-04 11:54:35] Saved gamma plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma.png
+[2025-12-04 11:54:36] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma_heatmap.png
+[2025-12-04 11:54:36] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_noise_floor_heatmap.png
+[2025-12-04 11:54:36] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_sat_time_heatmap.png
+[2025-12-04 11:54:36] All scans complete.
+[2025-12-04 12:29:59] Starting two-stream scan (default)
+[2025-12-04 12:31:26] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default.csv
+[2025-12-04 12:31:26] Saved gamma plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma.png
+[2025-12-04 12:33:00] Starting two-stream scan (default)
+[2025-12-04 12:34:26] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default.csv
+[2025-12-04 12:34:26] Saved gamma plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma.png
+[2025-12-04 12:34:27] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_heatmap.png
+[2025-12-04 12:35:03] Starting two-stream scan (default)
+[2025-12-04 12:36:26] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default.csv
+[2025-12-04 12:36:27] Saved gamma plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma.png
+[2025-12-04 12:36:27] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_heatmap.png
+[2025-12-04 12:39:43] Starting two-stream scan (default)
+[2025-12-04 12:41:06] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default.csv
+[2025-12-04 12:41:06] Saved gamma plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma.png
+[2025-12-04 12:41:06] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_heatmap.png
+[2025-12-04 12:58:09] Starting two-stream scan (default)
+[2025-12-04 12:58:45] Starting two-stream scan (default)
+[2025-12-04 13:00:12] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default.csv
+[2025-12-04 13:00:13] Saved gamma plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma.png
+[2025-12-04 13:00:13] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_heatmap.png
+[2025-12-04 13:00:13] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_noise_floor_heatmap.png
+[2025-12-04 13:00:13] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_sat_time_heatmap.png
+[2025-12-04 13:00:13] Starting two-stream scan (narrow)
+[2025-12-04 13:01:47] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow.csv
+[2025-12-04 13:01:47] Saved gamma plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma.png
+[2025-12-04 13:01:47] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma_heatmap.png
+[2025-12-04 13:01:47] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_noise_floor_heatmap.png
+[2025-12-04 13:01:48] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_sat_time_heatmap.png
+[2025-12-04 13:01:48] All scans complete.
+[2025-12-04 13:12:26] Starting two-stream scan (default)
+[2025-12-04 13:14:49] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default.csv
+[2025-12-04 13:14:58] Saved gamma plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma.png
+[2025-12-04 13:14:58] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_heatmap.png
+[2025-12-04 13:14:58] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_noise_floor_heatmap.png
+[2025-12-04 13:14:58] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_sat_time_heatmap.png
+[2025-12-04 13:14:58] Starting two-stream scan (narrow)
+[2025-12-04 13:17:32] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow.csv
+[2025-12-04 13:17:32] Saved gamma plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma.png
+[2025-12-04 13:17:32] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma_heatmap.png
+[2025-12-04 13:17:32] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_noise_floor_heatmap.png
+[2025-12-04 13:17:32] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_sat_time_heatmap.png
+[2025-12-04 13:17:32] All scans complete.
+[2025-12-04 13:22:04] Starting two-stream scan (default)
+[2025-12-04 13:34:31] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default.csv
+[2025-12-04 13:34:31] Saved gamma plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma.png
+[2025-12-04 13:34:32] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_heatmap.png
+[2025-12-04 13:34:32] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_noise_floor_heatmap.png
+[2025-12-04 13:34:32] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_sat_time_heatmap.png
+[2025-12-04 13:34:32] Starting two-stream scan (narrow)
+[2025-12-04 13:46:45] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow.csv
+[2025-12-04 13:46:45] Saved gamma plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma.png
+[2025-12-04 13:46:45] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma_heatmap.png
+[2025-12-04 13:46:45] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_noise_floor_heatmap.png
+[2025-12-04 13:46:46] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_sat_time_heatmap.png
+[2025-12-04 13:46:46] All scans complete.
+[2025-12-04 13:48:50] Starting two-stream scan (default)
+[2025-12-04 14:01:13] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default.csv
+[2025-12-04 14:01:14] Saved gamma plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma.png
+[2025-12-04 14:01:14] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_heatmap.png
+[2025-12-04 14:01:14] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_noise_floor_heatmap.png
+[2025-12-04 14:01:15] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_sat_time_heatmap.png
+[2025-12-04 14:01:15] Starting two-stream scan (narrow)
+[2025-12-04 14:13:29] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow.csv
+[2025-12-04 14:13:29] Saved gamma plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma.png
+[2025-12-04 14:13:29] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma_heatmap.png
+[2025-12-04 14:13:30] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_noise_floor_heatmap.png
+[2025-12-04 14:13:30] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_sat_time_heatmap.png
+[2025-12-04 14:13:30] All scans complete.
+[2025-12-04 14:29:39] Starting two-stream scan (default)
+[2025-12-04 14:37:36] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default.csv
+[2025-12-04 14:37:36] Saved gamma plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma.png
+[2025-12-04 14:37:36] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_heatmap.png
+[2025-12-04 14:37:36] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_noise_floor_heatmap.png
+[2025-12-04 14:37:37] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_sat_time_heatmap.png
+[2025-12-04 14:37:37] Starting two-stream scan (narrow)
+[2025-12-04 14:45:17] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow.csv
+[2025-12-04 14:45:17] Saved gamma plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma.png
+[2025-12-04 14:45:18] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma_heatmap.png
+[2025-12-04 14:45:18] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_noise_floor_heatmap.png
+[2025-12-04 14:45:18] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_sat_time_heatmap.png
+[2025-12-04 14:45:18] All scans complete.
+[2025-12-04 14:49:58] Starting two-stream scan (default)
+[2025-12-04 14:51:52] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default.csv
+[2025-12-04 14:51:52] Saved gamma plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma.png
+[2025-12-04 14:51:53] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_heatmap.png
+[2025-12-04 14:51:53] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_noise_floor_heatmap.png
+[2025-12-04 14:51:53] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_sat_time_heatmap.png
+[2025-12-04 14:51:53] Starting two-stream scan (narrow)
+[2025-12-04 14:52:08] ============================================================
+[2025-12-04 14:52:08] Starting Two-Stream Instability Study
+[2025-12-04 14:52:08] ============================================================
+[2025-12-04 14:52:08] 
+--- TASK 1: Baseline Two-Stream Run ---
+[2025-12-04 14:52:09] Running baseline simulation with animation...
+[2025-12-04 14:52:56] Saved baseline growth plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/first_harmonic_growth.png
+[2025-12-04 14:52:57] 
+=== PHYSICAL INTERPRETATION ===
+[2025-12-04 14:52:57] • Measured growth rate γ ≈ 0.004
+[2025-12-04 14:52:57] • Phase space shows two beams folding into vortices (electron trapping)
+[2025-12-04 14:52:57] • Final state: BGK-like equilibrium with trapped particles
+[2025-12-04 14:52:57] 
+--- TASK 2: Growth Rate Measurement ---
+[2025-12-04 14:52:57] Method: Linear fit to log(A) in automatically detected growth region
+[2025-12-04 14:52:57] Limitations:
+[2025-12-04 14:52:57]   • Requires clear exponential growth phase
+[2025-12-04 14:52:57]   • Sensitive to noise floor selection
+[2025-12-04 14:52:57]   • May miss early/late growth phases
+[2025-12-04 14:52:57] Baseline measurement: γ=0.0211 (t=1.6-74.4, quality=1.00)
+[2025-12-04 14:52:57] 
+--- TASK 3: Instability Thresholds ---
+[2025-12-04 14:52:57] Analytic upper threshold: vbeam ≥ 22.508
+[2025-12-04 14:52:57]   (k = 0.063, ω_pe_total = √2 = 1.414)
+[2025-12-04 14:52:57] Scanning vbeam from 0.0 to 8.0
+[2025-12-04 14:52:57] 
+--- Default beams (width = 1.0) ---
+[2025-12-04 14:52:57] Starting two-stream scan (default)
+[2025-12-04 14:54:29] Saved summary CSV: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow.csv
+[2025-12-04 14:54:29] Saved gamma plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma.png
+[2025-12-04 14:54:30] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma_heatmap.png
+[2025-12-04 14:54:30] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_noise_floor_heatmap.png
+[2025-12-04 14:54:31] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_sat_time_heatmap.png
+[2025-12-04 14:54:31] All scans complete.
+[2025-12-04 14:56:15] vbeam=0.00: γ=0.0000±0.0000 (0/5 valid)
+[2025-12-04 14:56:15] vbeam=0.42: γ=0.0003±0.0000 (3/5 valid)
+[2025-12-04 14:56:15] vbeam=0.84: γ=0.0006±0.0000 (5/5 valid)
+[2025-12-04 14:56:15] vbeam=1.26: γ=0.0007±0.0000 (4/5 valid)
+[2025-12-04 14:56:15] vbeam=1.68: γ=0.0011±0.0000 (3/5 valid)
+[2025-12-04 14:56:15] vbeam=2.11: γ=0.0031±0.0035 (5/5 valid)
+[2025-12-04 14:56:15] vbeam=2.53: γ=0.0219±0.0097 (5/5 valid)
+[2025-12-04 14:56:15] vbeam=2.95: γ=0.0368±0.0131 (5/5 valid)
+[2025-12-04 14:56:15] vbeam=3.37: γ=0.0410±0.0003 (5/5 valid)
+[2025-12-04 14:56:15] vbeam=3.79: γ=0.0281±0.0117 (5/5 valid)
+[2025-12-04 14:56:15] vbeam=4.21: γ=0.0231±0.0127 (5/5 valid)
+[2025-12-04 14:56:15] vbeam=4.63: γ=0.0828±0.0318 (5/5 valid)
+[2025-12-04 14:56:15] vbeam=5.05: γ=0.0791±0.0366 (5/5 valid)
+[2025-12-04 14:56:15] vbeam=5.47: γ=0.0366±0.0123 (5/5 valid)
+[2025-12-04 14:56:15] vbeam=5.89: γ=0.0253±0.0025 (5/5 valid)
+[2025-12-04 14:56:15] vbeam=6.32: γ=0.0708±0.1078 (5/5 valid)
+[2025-12-04 14:56:15] vbeam=6.74: γ=0.0152±0.0009 (5/5 valid)
+[2025-12-04 14:56:15] vbeam=7.16: γ=0.0156±0.0037 (5/5 valid)
+[2025-12-04 14:56:15] vbeam=7.58: γ=0.0785±0.0533 (5/5 valid)
+[2025-12-04 14:56:15] vbeam=8.00: γ=0.3225±0.2465 (5/5 valid)
+[2025-12-04 14:56:15] Saved summary: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default_summary.csv
+[2025-12-04 14:56:15] Saved growth rate plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_vs_vbeam.png
+[2025-12-04 14:56:15] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_heatmap.png
+[2025-12-04 14:56:16] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_noise_floor_heatmap.png
+[2025-12-04 14:56:16] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_sat_time_heatmap.png
+[2025-12-04 14:56:16] Saved analytic comparison plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_analytic_comparison.png
+[2025-12-04 14:56:16] 
+--- Narrow beams (width = 0.1) ---
+[2025-12-04 14:56:16] Starting two-stream scan (narrow)
+[2025-12-04 14:57:48] vbeam=0.00: γ=0.0000±0.0000 (0/3 valid)
+[2025-12-04 14:57:48] vbeam=0.42: γ=0.0002±0.0000 (3/3 valid)
+[2025-12-04 14:57:48] vbeam=0.84: γ=0.0008±0.0011 (3/3 valid)
+[2025-12-04 14:57:48] vbeam=1.26: γ=0.0050±0.0000 (3/3 valid)
+[2025-12-04 14:57:48] vbeam=1.68: γ=0.0113±0.0000 (3/3 valid)
+[2025-12-04 14:57:48] vbeam=2.11: γ=0.0138±0.0015 (3/3 valid)
+[2025-12-04 14:57:48] vbeam=2.53: γ=0.0225±0.0000 (3/3 valid)
+[2025-12-04 14:57:48] vbeam=2.95: γ=0.0245±0.0000 (3/3 valid)
+[2025-12-04 14:57:48] vbeam=3.37: γ=0.0101±0.0000 (3/3 valid)
+[2025-12-04 14:57:48] vbeam=3.79: γ=0.0191±0.0000 (3/3 valid)
+[2025-12-04 14:57:48] vbeam=4.21: γ=0.0075±0.0074 (3/3 valid)
+[2025-12-04 14:57:48] vbeam=4.63: γ=0.0154±0.0000 (3/3 valid)
+[2025-12-04 14:57:48] vbeam=5.05: γ=0.0152±0.0057 (3/3 valid)
+[2025-12-04 14:57:48] vbeam=5.47: γ=0.0156±0.0017 (3/3 valid)
+[2025-12-04 14:57:48] vbeam=5.89: γ=0.0227±0.0023 (3/3 valid)
+[2025-12-04 14:57:48] vbeam=6.32: γ=0.0098±0.0014 (3/3 valid)
+[2025-12-04 14:57:48] vbeam=6.74: γ=0.0178±0.0003 (3/3 valid)
+[2025-12-04 14:57:48] vbeam=7.16: γ=0.0196±0.0021 (3/3 valid)
+[2025-12-04 14:57:48] vbeam=7.58: γ=0.0162±0.0000 (3/3 valid)
+[2025-12-04 14:57:48] vbeam=8.00: γ=0.0149±0.0025 (3/3 valid)
+[2025-12-04 14:57:48] Saved summary: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow_summary.csv
+[2025-12-04 14:57:49] Saved growth rate plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma_vs_vbeam.png
+[2025-12-04 14:57:49] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma_heatmap.png
+[2025-12-04 14:57:49] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_noise_floor_heatmap.png
+[2025-12-04 14:57:49] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_sat_time_heatmap.png
+[2025-12-04 14:57:50] Saved analytic comparison plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_analytic_comparison.png
+[2025-12-04 14:57:50] 
+=== THRESHOLD COMPARISON ===
+[2025-12-04 14:57:50] Upper threshold (analytic): 22.508
+[2025-12-04 14:57:50] Experimental threshold (default): 1.684
+[2025-12-04 14:57:50] Experimental threshold (narrow): 1.263
+[2025-12-04 14:57:50] 
+Comments on agreement:
+[2025-12-04 14:57:50] • Narrow beams should agree better with cold beam theory
+[2025-12-04 14:57:50] • Default beams have thermal spread → higher threshold
+[2025-12-04 14:57:50] • Finite width stabilizes some modes → reduced growth rates
+[2025-12-04 14:57:50] 
+--- OPTIONAL: Bump-on-Tail Heating Study ---
+[2025-12-04 14:57:50] Running bump-on-tail analysis: vbump=3.0, fraction=0.1
+[2025-12-04 14:57:55] Bump-on-tail analysis results:
+[2025-12-04 14:57:55]   Initial: μ=0.012, σ=0.897 (T=0.804)
+[2025-12-04 14:57:55]   Final:   μ=0.012, σ=0.897 (T=0.804)
+[2025-12-04 14:57:55]   Temperature increase: 0.000
+[2025-12-04 14:57:55]   Mean velocity change: 0.000
+[2025-12-04 14:57:55] 
+--- Parameter variation study ---
+[2025-12-04 14:57:55] Running bump-on-tail analysis: vbump=2.0, fraction=0.1
+[2025-12-04 14:58:00] Bump-on-tail analysis results:
+[2025-12-04 14:58:00]   Initial: μ=0.129, σ=1.215 (T=1.476)
+[2025-12-04 14:58:00]   Final:   μ=0.129, σ=1.215 (T=1.476)
+[2025-12-04 14:58:00]   Temperature increase: 0.000
+[2025-12-04 14:58:00]   Mean velocity change: 0.000
+[2025-12-04 14:58:00] vbump=2.0: ΔT=0.000, Δμ=0.000
+[2025-12-04 14:58:00] Running bump-on-tail analysis: vbump=3.0, fraction=0.1
+[2025-12-04 14:58:05] Bump-on-tail analysis results:
+[2025-12-04 14:58:05]   Initial: μ=0.002, σ=0.926 (T=0.858)
+[2025-12-04 14:58:05]   Final:   μ=0.002, σ=0.926 (T=0.858)
+[2025-12-04 14:58:05]   Temperature increase: 0.000
+[2025-12-04 14:58:05]   Mean velocity change: 0.000
+[2025-12-04 14:58:05] vbump=3.0: ΔT=0.000, Δμ=0.000
+[2025-12-04 14:58:05] Running bump-on-tail analysis: vbump=4.0, fraction=0.1
+[2025-12-04 14:58:12] Bump-on-tail analysis results:
+[2025-12-04 14:58:12]   Initial: μ=-0.014, σ=0.921 (T=0.848)
+[2025-12-04 14:58:12]   Final:   μ=-0.014, σ=0.921 (T=0.848)
+[2025-12-04 14:58:12]   Temperature increase: 0.000
+[2025-12-04 14:58:12]   Mean velocity change: 0.000
+[2025-12-04 14:58:12] vbump=4.0: ΔT=0.000, Δμ=0.000
+[2025-12-04 14:58:12] 
+============================================================
+[2025-12-04 14:58:12] STUDY COMPLETE
+[2025-12-04 14:58:12] ============================================================
+[2025-12-04 14:58:12] Results saved to: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans
+[2025-12-04 14:58:12]   • CSV files: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv
+[2025-12-04 14:58:12]   • Plots: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots
+[2025-12-04 14:58:12]   • Logs: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/logs
+[2025-12-04 16:43:51] ============================================================
+[2025-12-04 16:43:51] Starting Two-Stream Instability
+[2025-12-04 16:43:51] ============================================================
+[2025-12-04 16:43:51] 
+--- TASK 1: Baseline Two-Stream Run ---
+[2025-12-04 16:43:51] Running baseline simulation with animation...
+[2025-12-04 16:44:08] Saved baseline growth plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/first_harmonic_growth.png
+[2025-12-04 16:44:09] 
+=== PHYSICAL INTERPRETATION ===
+[2025-12-04 16:44:09] • Measured growth rate γ ≈ 0.011
+[2025-12-04 16:44:09] • Phase space shows two beams folding into vortices (electron trapping)
+[2025-12-04 16:44:09] • Final state: BGK-like equilibrium with trapped particles
+[2025-12-04 16:44:09] 
+--- TASK 2: Growth Rate Measurement ---
+[2025-12-04 16:44:09] Method: Linear fit to log(A) in automatically detected growth region
+[2025-12-04 16:44:09] Limitations:
+[2025-12-04 16:44:09]   • Requires clear exponential growth phase
+[2025-12-04 16:44:09]   • Sensitive to noise floor selection
+[2025-12-04 16:44:09]   • May miss early/late growth phases
+[2025-12-04 16:44:09] Baseline measurement: γ=0.0049 (t=1.6-78.8, quality=1.00)
+[2025-12-04 16:44:09] 
+--- TASK 3: Instability Thresholds ---
+[2025-12-04 16:44:09] Analytic upper threshold: vbeam ≥ 22.508
+[2025-12-04 16:44:09]   (k = 0.063, ω_pe_total = √2 = 1.414)
+[2025-12-04 16:44:09] Scanning vbeam from 0.0 to 8.0
+[2025-12-04 16:44:09] 
+--- Default beams (width = 1.0) ---
+[2025-12-04 16:44:09] Starting two-stream scan (default)
+[2025-12-04 16:46:33] vbeam=0.00: γ=0.0000±0.0000 (0/5 valid)
+[2025-12-04 16:46:33] vbeam=0.42: γ=0.0000±0.0000 (0/5 valid)
+[2025-12-04 16:46:33] vbeam=0.84: γ=0.0000±0.0000 (0/5 valid)
+[2025-12-04 16:46:33] vbeam=1.26: γ=0.0000±0.0000 (0/5 valid)
+[2025-12-04 16:46:33] vbeam=1.68: γ=0.0000±0.0000 (0/5 valid)
+[2025-12-04 16:46:33] vbeam=2.11: γ=0.0059±0.0022 (4/5 valid)
+[2025-12-04 16:46:33] vbeam=2.53: γ=0.0106±0.0035 (5/5 valid)
+[2025-12-04 16:46:33] vbeam=2.95: γ=0.0200±0.0064 (5/5 valid)
+[2025-12-04 16:46:33] vbeam=3.37: γ=0.0339±0.0054 (5/5 valid)
+[2025-12-04 16:46:33] vbeam=3.79: γ=0.0495±0.0119 (5/5 valid)
+[2025-12-04 16:46:33] vbeam=4.21: γ=0.0726±0.0415 (5/5 valid)
+[2025-12-04 16:46:33] vbeam=4.63: γ=0.0631±0.0422 (5/5 valid)
+[2025-12-04 16:46:33] vbeam=5.05: γ=0.1610±0.0229 (5/5 valid)
+[2025-12-04 16:46:33] vbeam=5.47: γ=0.0815±0.0632 (5/5 valid)
+[2025-12-04 16:46:33] vbeam=5.89: γ=0.0205±0.0063 (5/5 valid)
+[2025-12-04 16:46:33] vbeam=6.32: γ=0.0197±0.0074 (5/5 valid)
+[2025-12-04 16:46:33] vbeam=6.74: γ=0.0142±0.0074 (5/5 valid)
+[2025-12-04 16:46:33] vbeam=7.16: γ=0.0137±0.0046 (5/5 valid)
+[2025-12-04 16:46:33] vbeam=7.58: γ=0.0139±0.0010 (3/5 valid)
+[2025-12-04 16:46:33] vbeam=8.00: γ=0.0113±0.0048 (5/5 valid)
+[2025-12-04 16:46:33] Saved summary: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default_summary.csv
+[2025-12-04 16:46:33] Saved growth rate plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_vs_vbeam.png
+[2025-12-04 16:46:34] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_heatmap.png
+[2025-12-04 16:46:34] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_noise_floor_heatmap.png
+[2025-12-04 16:46:34] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_sat_time_heatmap.png
+[2025-12-04 16:46:35] Saved analytic comparison plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_analytic_comparison.png
+[2025-12-04 16:46:35] 
+--- Narrow beams (width = 0.1) ---
+[2025-12-04 16:46:35] Starting two-stream scan (narrow)
+[2025-12-04 16:48:08] vbeam=0.00: γ=0.0000±0.0000 (0/3 valid)
+[2025-12-04 16:48:08] vbeam=0.42: γ=0.0000±0.0000 (0/3 valid)
+[2025-12-04 16:48:08] vbeam=0.84: γ=0.0014±0.0001 (3/3 valid)
+[2025-12-04 16:48:08] vbeam=1.26: γ=0.0042±0.0000 (3/3 valid)
+[2025-12-04 16:48:08] vbeam=1.68: γ=0.0028±0.0000 (3/3 valid)
+[2025-12-04 16:48:08] vbeam=2.11: γ=0.0000±0.0000 (0/3 valid)
+[2025-12-04 16:48:08] vbeam=2.53: γ=0.0000±0.0000 (0/3 valid)
+[2025-12-04 16:48:08] vbeam=2.95: γ=0.0044±0.0000 (3/3 valid)
+[2025-12-04 16:48:08] vbeam=3.37: γ=0.0042±0.0000 (3/3 valid)
+[2025-12-04 16:48:08] vbeam=3.79: γ=0.0118±0.0000 (3/3 valid)
+[2025-12-04 16:48:08] vbeam=4.21: γ=0.0280±0.0160 (3/3 valid)
+[2025-12-04 16:48:08] vbeam=4.63: γ=0.0222±0.0111 (3/3 valid)
+[2025-12-04 16:48:08] vbeam=5.05: γ=0.0222±0.0047 (3/3 valid)
+[2025-12-04 16:48:08] vbeam=5.47: γ=0.0216±0.0000 (1/3 valid)
+[2025-12-04 16:48:08] vbeam=5.89: γ=0.0054±0.0000 (1/3 valid)
+[2025-12-04 16:48:08] vbeam=6.32: γ=0.0158±0.0000 (1/3 valid)
+[2025-12-04 16:48:08] vbeam=6.74: γ=0.0149±0.0000 (3/3 valid)
+[2025-12-04 16:48:08] vbeam=7.16: γ=0.0137±0.0019 (3/3 valid)
+[2025-12-04 16:48:08] vbeam=7.58: γ=0.0120±0.0052 (3/3 valid)
+[2025-12-04 16:48:08] vbeam=8.00: γ=0.0190±0.0000 (3/3 valid)
+[2025-12-04 16:48:08] Saved summary: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow_summary.csv
+[2025-12-04 16:48:09] Saved growth rate plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma_vs_vbeam.png
+[2025-12-04 16:48:09] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma_heatmap.png
+[2025-12-04 16:48:09] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_noise_floor_heatmap.png
+[2025-12-04 16:48:09] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_sat_time_heatmap.png
+[2025-12-04 16:48:10] Saved analytic comparison plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_analytic_comparison.png
+[2025-12-04 16:48:10] 
+=== THRESHOLD COMPARISON ===
+[2025-12-04 16:48:10] Upper threshold (analytic): 22.508
+[2025-12-04 16:48:10] Experimental threshold (default): 2.105
+[2025-12-04 16:48:10] Experimental threshold (narrow): 0.842
+[2025-12-04 16:48:10] 
+Comments on agreement:
+[2025-12-04 16:48:10] • Narrow beams should agree better with cold beam theory
+[2025-12-04 16:48:10] • Default beams have thermal spread → higher threshold
+[2025-12-04 16:48:10] • Finite width stabilizes some modes → reduced growth rates
+[2025-12-04 16:48:10] 
+--- OPTIONAL: Bump-on-Tail Heating ---
+[2025-12-04 16:48:10] Running bump-on-tail analysis: vbump=3.0, fraction=0.1
+[2025-12-04 16:48:17] Bump-on-tail analysis results:
+[2025-12-04 16:48:17]   Initial: μ=0.016, σ=0.884 (T=0.781)
+[2025-12-04 16:48:17]   Final:   μ=0.016, σ=0.884 (T=0.781)
+[2025-12-04 16:48:17]   Temperature increase: 0.000
+[2025-12-04 16:48:17]   Mean velocity change: 0.000
+[2025-12-04 16:48:17] 
+--- Parameter variation ---
+[2025-12-04 16:48:17] Running bump-on-tail analysis: vbump=2.0, fraction=0.1
+[2025-12-04 16:48:22] Bump-on-tail analysis results:
+[2025-12-04 16:48:22]   Initial: μ=0.145, σ=1.221 (T=1.491)
+[2025-12-04 16:48:22]   Final:   μ=0.145, σ=1.221 (T=1.491)
+[2025-12-04 16:48:22]   Temperature increase: 0.000
+[2025-12-04 16:48:22]   Mean velocity change: 0.000
+[2025-12-04 16:48:22] vbump=2.0: ΔT=0.000, Δμ=0.000
+[2025-12-04 16:48:22] Running bump-on-tail analysis: vbump=3.0, fraction=0.1
+[2025-12-04 16:48:27] Bump-on-tail analysis results:
+[2025-12-04 16:48:27]   Initial: μ=0.003, σ=0.876 (T=0.768)
+[2025-12-04 16:48:27]   Final:   μ=0.003, σ=0.876 (T=0.768)
+[2025-12-04 16:48:27]   Temperature increase: 0.000
+[2025-12-04 16:48:27]   Mean velocity change: 0.000
+[2025-12-04 16:48:27] vbump=3.0: ΔT=0.000, Δμ=0.000
+[2025-12-04 16:48:27] Running bump-on-tail analysis: vbump=4.0, fraction=0.1
+[2025-12-04 16:48:33] Bump-on-tail analysis results:
+[2025-12-04 16:48:33]   Initial: μ=-0.000, σ=0.887 (T=0.786)
+[2025-12-04 16:48:33]   Final:   μ=-0.000, σ=0.887 (T=0.786)
+[2025-12-04 16:48:33]   Temperature increase: 0.000
+[2025-12-04 16:48:33]   Mean velocity change: 0.000
+[2025-12-04 16:48:33] vbump=4.0: ΔT=0.000, Δμ=0.000
+[2025-12-04 16:48:33] 
+============================================================
+[2025-12-04 16:48:33] SIMULATION COMPLETE
+[2025-12-04 16:48:33] ============================================================
+[2025-12-04 16:48:33] Results saved to: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans
+[2025-12-04 16:48:33]   • CSV files: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv
+[2025-12-04 16:48:33]   • Plots: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots
+[2025-12-04 16:48:33]   • Logs: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/logs
+[2025-12-10 21:11:44] ============================================================
+[2025-12-10 21:11:44] Starting Two-Stream Instability
+[2025-12-10 21:11:44] ============================================================
+[2025-12-10 21:11:44] 
+--- TASK 1: Baseline Two-Stream Run ---
+[2025-12-10 21:11:45] Running baseline simulation with animation...
+[2025-12-10 21:12:05] Saved baseline growth plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/first_harmonic_growth.png
+[2025-12-10 21:12:06] 
+=== PHYSICAL INTERPRETATION ===
+[2025-12-10 21:12:06] • Measured growth rate γ ≈ 0.024
+[2025-12-10 21:12:06] • Phase space shows two beams folding into vortices (electron trapping)
+[2025-12-10 21:12:06] • Final state: BGK-like equilibrium with trapped particles
+[2025-12-10 21:12:06] 
+--- TASK 2: Growth Rate Measurement ---
+[2025-12-10 21:12:06] Method: Linear fit to log(A) in automatically detected growth region
+[2025-12-10 21:12:06] Limitations:
+[2025-12-10 21:12:06]   • Requires clear exponential growth phase
+[2025-12-10 21:12:06]   • Sensitive to noise floor selection
+[2025-12-10 21:12:06]   • May miss early/late growth phases
+[2025-12-10 21:12:06] Baseline measurement: γ=0.0404 (t=1.6-28.9, quality=1.00)
+[2025-12-10 21:12:06] 
+--- TASK 3: Instability Thresholds ---
+[2025-12-10 21:12:06] Analytic upper threshold: vbeam ≥ 22.508
+[2025-12-10 21:12:06]   (k = 0.063, ω_pe_total = √2 = 1.414)
+[2025-12-10 21:12:06] Scanning vbeam from 0.0 to 8.0
+[2025-12-10 21:12:06] 
+--- Default beams (width = 1.0) ---
+[2025-12-10 21:12:06] Starting two-stream scan (default)
+[2025-12-10 21:15:57] vbeam=0.00: γ=0.0000±0.0000 (0/5 valid)
+[2025-12-10 21:15:57] vbeam=0.42: γ=0.0000±0.0000 (0/5 valid)
+[2025-12-10 21:15:57] vbeam=0.84: γ=0.0000±0.0000 (0/5 valid)
+[2025-12-10 21:15:57] vbeam=1.26: γ=0.0000±0.0000 (0/5 valid)
+[2025-12-10 21:15:57] vbeam=1.68: γ=0.0000±0.0000 (0/5 valid)
+[2025-12-10 21:15:57] vbeam=2.11: γ=0.0031±0.0000 (5/5 valid)
+[2025-12-10 21:15:57] vbeam=2.53: γ=0.0156±0.0025 (5/5 valid)
+[2025-12-10 21:15:57] vbeam=2.95: γ=0.0300±0.0076 (5/5 valid)
+[2025-12-10 21:15:57] vbeam=3.37: γ=0.0462±0.0000 (5/5 valid)
+[2025-12-10 21:15:57] vbeam=3.79: γ=0.0273±0.0174 (5/5 valid)
+[2025-12-10 21:15:57] vbeam=4.21: γ=0.0232±0.0020 (5/5 valid)
+[2025-12-10 21:15:57] vbeam=4.63: γ=0.0343±0.0072 (5/5 valid)
+[2025-12-10 21:15:57] vbeam=5.05: γ=0.0857±0.0329 (5/5 valid)
+[2025-12-10 21:15:57] vbeam=5.47: γ=0.0660±0.0596 (5/5 valid)
+[2025-12-10 21:15:57] vbeam=5.89: γ=0.0990±0.0960 (5/5 valid)
+[2025-12-10 21:15:57] vbeam=6.32: γ=0.0283±0.0000 (5/5 valid)
+[2025-12-10 21:15:57] vbeam=6.74: γ=0.0985±0.0986 (5/5 valid)
+[2025-12-10 21:15:57] vbeam=7.16: γ=0.0199±0.0022 (5/5 valid)
+[2025-12-10 21:15:57] vbeam=7.58: γ=0.0176±0.0035 (5/5 valid)
+[2025-12-10 21:15:57] vbeam=8.00: γ=0.0165±0.0006 (5/5 valid)
+[2025-12-10 21:15:57] Saved summary: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default_summary.csv
+[2025-12-10 21:15:57] Saved growth rate plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_vs_vbeam.png
+[2025-12-10 21:15:58] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_heatmap.png
+[2025-12-10 21:15:58] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_noise_floor_heatmap.png
+[2025-12-10 21:15:59] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_sat_time_heatmap.png
+[2025-12-10 21:16:00] Saved analytic comparison plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_analytic_comparison.png
+[2025-12-10 21:16:00] 
+--- Narrow beams (width = 0.1) ---
+[2025-12-10 21:16:00] Starting two-stream scan (narrow)
+[2025-12-10 21:18:37] vbeam=0.00: γ=0.0000±0.0000 (0/3 valid)
+[2025-12-10 21:18:37] vbeam=0.42: γ=0.0000±0.0000 (0/3 valid)
+[2025-12-10 21:18:37] vbeam=0.84: γ=0.0002±0.0000 (2/3 valid)
+[2025-12-10 21:18:37] vbeam=1.26: γ=0.0001±0.0000 (3/3 valid)
+[2025-12-10 21:18:37] vbeam=1.68: γ=0.0000±0.0000 (0/3 valid)
+[2025-12-10 21:18:37] vbeam=2.11: γ=0.0013±0.0012 (3/3 valid)
+[2025-12-10 21:18:37] vbeam=2.53: γ=0.0068±0.0000 (3/3 valid)
+[2025-12-10 21:18:37] vbeam=2.95: γ=0.0125±0.0008 (3/3 valid)
+[2025-12-10 21:18:37] vbeam=3.37: γ=0.0097±0.0032 (3/3 valid)
+[2025-12-10 21:18:37] vbeam=3.79: γ=0.0113±0.0001 (3/3 valid)
+[2025-12-10 21:18:37] vbeam=4.21: γ=0.0183±0.0000 (3/3 valid)
+[2025-12-10 21:18:37] vbeam=4.63: γ=0.0147±0.0044 (3/3 valid)
+[2025-12-10 21:18:37] vbeam=5.05: γ=0.0204±0.0047 (3/3 valid)
+[2025-12-10 21:18:37] vbeam=5.47: γ=0.0135±0.0001 (3/3 valid)
+[2025-12-10 21:18:37] vbeam=5.89: γ=0.0070±0.0019 (3/3 valid)
+[2025-12-10 21:18:37] vbeam=6.32: γ=0.0074±0.0071 (3/3 valid)
+[2025-12-10 21:18:37] vbeam=6.74: γ=0.0093±0.0016 (3/3 valid)
+[2025-12-10 21:18:37] vbeam=7.16: γ=0.0154±0.0071 (3/3 valid)
+[2025-12-10 21:18:37] vbeam=7.58: γ=0.0182±0.0071 (3/3 valid)
+[2025-12-10 21:18:37] vbeam=8.00: γ=0.0099±0.0012 (3/3 valid)
+[2025-12-10 21:18:37] Saved summary: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow_summary.csv
+[2025-12-10 21:18:37] Saved growth rate plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma_vs_vbeam.png
+[2025-12-10 21:18:38] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma_heatmap.png
+[2025-12-10 21:18:38] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_noise_floor_heatmap.png
+[2025-12-10 21:18:39] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_sat_time_heatmap.png
+[2025-12-10 21:18:39] Saved analytic comparison plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_analytic_comparison.png
+[2025-12-10 21:18:39] 
+=== THRESHOLD COMPARISON ===
+[2025-12-10 21:18:39] Upper threshold (analytic): 22.508
+[2025-12-10 21:18:39] Experimental threshold (default): 2.105
+[2025-12-10 21:18:39] Experimental threshold (narrow): 2.105
+[2025-12-10 21:18:39] 
+Comments on agreement:
+[2025-12-10 21:18:39] • Narrow beams should agree better with cold beam theory
+[2025-12-10 21:18:39] • Default beams have thermal spread → higher threshold
+[2025-12-10 21:18:39] • Finite width stabilizes some modes → reduced growth rates
+[2025-12-10 21:18:39] 
+--- OPTIONAL: Bump-on-Tail Heating ---
+[2025-12-10 21:18:39] Running bump-on-tail analysis: vbump=3.0, fraction=0.1
+[2025-12-10 21:18:46] Bump-on-tail analysis results:
+[2025-12-10 21:18:46]   Initial: μ=0.007, σ=0.906 (T=0.821)
+[2025-12-10 21:18:46]   Final:   μ=0.007, σ=0.906 (T=0.821)
+[2025-12-10 21:18:46]   Temperature increase: 0.000
+[2025-12-10 21:18:46]   Mean velocity change: 0.000
+[2025-12-10 21:18:46] 
+--- Parameter variation ---
+[2025-12-10 21:18:46] Running bump-on-tail analysis: vbump=2.0, fraction=0.1
+[2025-12-10 21:18:52] Bump-on-tail analysis results:
+[2025-12-10 21:18:52]   Initial: μ=0.149, σ=1.243 (T=1.544)
+[2025-12-10 21:18:52]   Final:   μ=0.149, σ=1.243 (T=1.544)
+[2025-12-10 21:18:52]   Temperature increase: 0.000
+[2025-12-10 21:18:52]   Mean velocity change: 0.000
+[2025-12-10 21:18:52] vbump=2.0: ΔT=0.000, Δμ=0.000
+[2025-12-10 21:18:52] Running bump-on-tail analysis: vbump=3.0, fraction=0.1
+[2025-12-10 21:18:58] Bump-on-tail analysis results:
+[2025-12-10 21:18:58]   Initial: μ=0.034, σ=0.872 (T=0.760)
+[2025-12-10 21:18:58]   Final:   μ=0.034, σ=0.872 (T=0.760)
+[2025-12-10 21:18:58]   Temperature increase: 0.000
+[2025-12-10 21:18:58]   Mean velocity change: 0.000
+[2025-12-10 21:18:58] vbump=3.0: ΔT=0.000, Δμ=0.000
+[2025-12-10 21:18:58] Running bump-on-tail analysis: vbump=4.0, fraction=0.1
+[2025-12-10 21:19:04] Bump-on-tail analysis results:
+[2025-12-10 21:19:04]   Initial: μ=-0.011, σ=0.898 (T=0.806)
+[2025-12-10 21:19:04]   Final:   μ=-0.011, σ=0.898 (T=0.806)
+[2025-12-10 21:19:04]   Temperature increase: 0.000
+[2025-12-10 21:19:04]   Mean velocity change: 0.000
+[2025-12-10 21:19:04] vbump=4.0: ΔT=0.000, Δμ=0.000
+[2025-12-10 21:19:04] 
+============================================================
+[2025-12-10 21:19:04] SIMULATION COMPLETE
+[2025-12-10 21:19:04] ============================================================
+[2025-12-10 21:19:04] Results saved to: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans
+[2025-12-10 21:19:04]   • CSV files: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv
+[2025-12-10 21:19:04]   • Plots: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots
+[2025-12-10 21:19:04]   • Logs: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/logs
+[2025-12-10 21:23:55] ============================================================
+[2025-12-10 21:23:55] Starting Two-Stream Instability
+[2025-12-10 21:23:55] ============================================================
+[2025-12-10 21:23:55] 
+--- TASK 1: Baseline Two-Stream Run ---
+[2025-12-10 21:23:55] Running baseline simulation with animation...
+[2025-12-10 21:25:52] ============================================================
+[2025-12-10 21:25:52] Starting Two-Stream Instability
+[2025-12-10 21:25:52] ============================================================
+[2025-12-10 21:25:52] 
+--- TASK 1: Baseline Two-Stream Run ---
+[2025-12-10 21:25:52] Running baseline simulation with animation...
+[2025-12-10 21:26:15] Saved baseline growth plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/first_harmonic_growth.png
+[2025-12-10 21:26:16] 
+=== PHYSICAL INTERPRETATION ===
+[2025-12-10 21:26:16] • Measured growth rate γ ≈ -0.004
+[2025-12-10 21:26:16] • Phase space shows two beams folding into vortices (electron trapping)
+[2025-12-10 21:26:16] • Final state: BGK-like equilibrium with trapped particles
+[2025-12-10 21:26:16] 
+--- BGK Vortices Analysis ---
+[2025-12-10 21:26:16] --- Plotting phase space evolution for BGK vortices ---
+[2025-12-10 21:40:41] ============================================================
+[2025-12-10 21:40:41] Starting Two-Stream Instability
+[2025-12-10 21:40:41] ============================================================
+[2025-12-10 21:40:41] 
+--- TASK 1: Baseline Two-Stream Run ---
+[2025-12-10 21:40:42] Running baseline simulation with animation...
+[2025-12-10 21:41:04] Saved baseline growth plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/first_harmonic_growth.png
+[2025-12-10 21:41:05] 
+=== PHYSICAL INTERPRETATION ===
+[2025-12-10 21:41:05] • Measured growth rate γ ≈ 0.001
+[2025-12-10 21:41:05] • Phase space shows two beams folding into vortices (electron trapping)
+[2025-12-10 21:41:05] • Final state: BGK-like equilibrium with trapped particles
+[2025-12-10 21:41:05] 
+--- TASK 2: Growth Rate Measurement ---
+[2025-12-10 21:41:05] Method: Linear fit to log(A) in automatically detected growth region
+[2025-12-10 21:41:05] Limitations:
+[2025-12-10 21:41:05]   • Requires clear exponential growth phase
+[2025-12-10 21:41:05]   • Sensitive to noise floor selection
+[2025-12-10 21:41:05]   • May miss early/late growth phases
+[2025-12-10 21:41:05] Baseline measurement: γ=0.0181 (t=1.6-80.0, quality=1.00)
+[2025-12-10 21:41:05] 
+--- TASK 3: Instability Thresholds ---
+[2025-12-10 21:41:05] Analytic upper threshold: vbeam ≥ 22.508
+[2025-12-10 21:41:05]   (k = 0.063, ω_pe_total = √2 = 1.414)
+[2025-12-10 21:41:05] Scanning vbeam from 0.0 to 8.0
+[2025-12-10 21:41:05] 
+--- Default beams (width = 1.0) ---
+[2025-12-10 21:41:05] Starting two-stream scan (default)
+[2025-12-10 21:45:34] vbeam=0.00: γ=0.0000±0.0000 (0/5 valid)
+[2025-12-10 21:45:34] vbeam=0.42: γ=0.0004±0.0000 (3/5 valid)
+[2025-12-10 21:45:34] vbeam=0.84: γ=0.0000±0.0000 (0/5 valid)
+[2025-12-10 21:45:34] vbeam=1.26: γ=0.0001±0.0000 (4/5 valid)
+[2025-12-10 21:45:34] vbeam=1.68: γ=0.0027±0.0000 (4/5 valid)
+[2025-12-10 21:45:34] vbeam=2.11: γ=0.0000±0.0000 (0/5 valid)
+[2025-12-10 21:45:34] vbeam=2.53: γ=0.0085±0.0000 (3/5 valid)
+[2025-12-10 21:45:34] vbeam=2.95: γ=0.0248±0.0018 (5/5 valid)
+[2025-12-10 21:45:34] vbeam=3.37: γ=0.0338±0.0123 (5/5 valid)
+[2025-12-10 21:45:34] vbeam=3.79: γ=0.0161±0.0220 (5/5 valid)
+[2025-12-10 21:45:34] vbeam=4.21: γ=0.0548±0.0461 (5/5 valid)
+[2025-12-10 21:45:34] vbeam=4.63: γ=0.0235±0.0107 (5/5 valid)
+[2025-12-10 21:45:34] vbeam=5.05: γ=0.0691±0.0290 (5/5 valid)
+[2025-12-10 21:45:34] vbeam=5.47: γ=0.0449±0.0475 (5/5 valid)
+[2025-12-10 21:45:34] vbeam=5.89: γ=0.0762±0.0434 (5/5 valid)
+[2025-12-10 21:45:34] vbeam=6.32: γ=0.0270±0.0071 (5/5 valid)
+[2025-12-10 21:45:34] vbeam=6.74: γ=0.0347±0.0171 (5/5 valid)
+[2025-12-10 21:45:34] vbeam=7.16: γ=0.0948±0.0832 (5/5 valid)
+[2025-12-10 21:45:34] vbeam=7.58: γ=0.0179±0.0025 (5/5 valid)
+[2025-12-10 21:45:34] vbeam=8.00: γ=0.0161±0.0041 (5/5 valid)
+[2025-12-10 21:45:34] Saved summary: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default_summary.csv
+[2025-12-10 21:45:35] Saved growth rate plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_vs_vbeam.png
+[2025-12-10 21:45:35] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_heatmap.png
+[2025-12-10 21:45:36] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_noise_floor_heatmap.png
+[2025-12-10 21:45:36] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_sat_time_heatmap.png
+[2025-12-10 21:45:37] Saved analytic comparison plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_analytic_comparison.png
+[2025-12-10 21:45:37] 
+--- Narrow beams (width = 0.1) ---
+[2025-12-10 21:45:37] Starting two-stream scan (narrow)
+[2025-12-10 21:48:28] vbeam=0.00: γ=0.0000±0.0000 (0/3 valid)
+[2025-12-10 21:48:28] vbeam=0.42: γ=0.0005±0.0000 (3/3 valid)
+[2025-12-10 21:48:28] vbeam=0.84: γ=0.0015±0.0000 (2/3 valid)
+[2025-12-10 21:48:28] vbeam=1.26: γ=0.0034±0.0000 (3/3 valid)
+[2025-12-10 21:48:28] vbeam=1.68: γ=0.0000±0.0000 (0/3 valid)
+[2025-12-10 21:48:28] vbeam=2.11: γ=0.0000±0.0000 (0/3 valid)
+[2025-12-10 21:48:28] vbeam=2.53: γ=0.0105±0.0000 (3/3 valid)
+[2025-12-10 21:48:28] vbeam=2.95: γ=0.0109±0.0000 (3/3 valid)
+[2025-12-10 21:48:28] vbeam=3.37: γ=0.0069±0.0000 (3/3 valid)
+[2025-12-10 21:48:28] vbeam=3.79: γ=0.0086±0.0000 (3/3 valid)
+[2025-12-10 21:48:28] vbeam=4.21: γ=0.0165±0.0023 (3/3 valid)
+[2025-12-10 21:48:28] vbeam=4.63: γ=0.0162±0.0008 (3/3 valid)
+[2025-12-10 21:48:28] vbeam=5.05: γ=0.0170±0.0065 (3/3 valid)
+[2025-12-10 21:48:28] vbeam=5.47: γ=0.0193±0.0130 (3/3 valid)
+[2025-12-10 21:48:28] vbeam=5.89: γ=0.0252±0.0063 (3/3 valid)
+[2025-12-10 21:48:28] vbeam=6.32: γ=0.0249±0.0141 (3/3 valid)
+[2025-12-10 21:48:28] vbeam=6.74: γ=0.0159±0.0084 (3/3 valid)
+[2025-12-10 21:48:28] vbeam=7.16: γ=0.0153±0.0009 (3/3 valid)
+[2025-12-10 21:48:28] vbeam=7.58: γ=0.0107±0.0040 (3/3 valid)
+[2025-12-10 21:48:28] vbeam=8.00: γ=0.0166±0.0005 (3/3 valid)
+[2025-12-10 21:48:28] Saved summary: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow_summary.csv
+[2025-12-10 21:48:29] Saved growth rate plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma_vs_vbeam.png
+[2025-12-10 21:48:29] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma_heatmap.png
+[2025-12-10 21:48:30] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_noise_floor_heatmap.png
+[2025-12-10 21:48:30] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_sat_time_heatmap.png
+[2025-12-10 21:48:31] Saved analytic comparison plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_analytic_comparison.png
+[2025-12-10 21:48:31] 
+=== THRESHOLD COMPARISON ===
+[2025-12-10 21:48:31] Upper threshold (analytic): 22.508
+[2025-12-10 21:48:31] Experimental threshold (default): 1.684
+[2025-12-10 21:48:31] Experimental threshold (narrow): 0.842
+[2025-12-10 21:48:31] 
+Comments on agreement:
+[2025-12-10 21:48:31] • Narrow beams should agree better with cold beam theory
+[2025-12-10 21:48:31] • Default beams have thermal spread → higher threshold
+[2025-12-10 21:48:31] • Finite width stabilizes some modes → reduced growth rates
+[2025-12-10 21:48:31] 
+--- OPTIONAL: Bump-on-Tail Heating ---
+[2025-12-10 21:48:31] Running bump-on-tail analysis: vbump=3.0, fraction=0.1
+[2025-12-10 21:48:37] Bump-on-tail analysis results:
+[2025-12-10 21:48:37]   Initial: μ=-0.001, σ=0.899 (T=0.808)
+[2025-12-10 21:48:37]   Final:   μ=-0.001, σ=0.899 (T=0.808)
+[2025-12-10 21:48:37]   Temperature increase: 0.000
+[2025-12-10 21:48:37]   Mean velocity change: 0.000
+[2025-12-10 21:48:37] 
+--- Parameter variation ---
+[2025-12-10 21:48:37] Running bump-on-tail analysis: vbump=2.0, fraction=0.1
+[2025-12-10 21:48:42] Bump-on-tail analysis results:
+[2025-12-10 21:48:42]   Initial: μ=0.122, σ=1.218 (T=1.483)
+[2025-12-10 21:48:42]   Final:   μ=0.122, σ=1.218 (T=1.483)
+[2025-12-10 21:48:42]   Temperature increase: 0.000
+[2025-12-10 21:48:42]   Mean velocity change: 0.000
+[2025-12-10 21:48:42] vbump=2.0: ΔT=0.000, Δμ=0.000
+[2025-12-10 21:48:42] Running bump-on-tail analysis: vbump=3.0, fraction=0.1
+[2025-12-10 21:48:48] Bump-on-tail analysis results:
+[2025-12-10 21:48:48]   Initial: μ=0.010, σ=0.921 (T=0.849)
+[2025-12-10 21:48:48]   Final:   μ=0.010, σ=0.921 (T=0.849)
+[2025-12-10 21:48:48]   Temperature increase: 0.000
+[2025-12-10 21:48:48]   Mean velocity change: 0.000
+[2025-12-10 21:48:48] vbump=3.0: ΔT=0.000, Δμ=0.000
+[2025-12-10 21:48:48] Running bump-on-tail analysis: vbump=4.0, fraction=0.1
+[2025-12-10 21:48:55] Bump-on-tail analysis results:
+[2025-12-10 21:48:55]   Initial: μ=0.013, σ=0.911 (T=0.830)
+[2025-12-10 21:48:55]   Final:   μ=0.013, σ=0.911 (T=0.830)
+[2025-12-10 21:48:55]   Temperature increase: 0.000
+[2025-12-10 21:48:55]   Mean velocity change: 0.000
+[2025-12-10 21:48:55] vbump=4.0: ΔT=0.000, Δμ=0.000
+[2025-12-10 21:48:55] 
+============================================================
+[2025-12-10 21:48:55] SIMULATION COMPLETE
+[2025-12-10 21:48:55] ============================================================
+[2025-12-10 21:48:55] Results saved to: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans
+[2025-12-10 21:48:55]   • CSV files: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv
+[2025-12-10 21:48:55]   • Plots: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots
+[2025-12-10 21:48:55]   • Logs: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/logs
+[2025-12-11 01:57:47] ============================================================
+[2025-12-11 01:57:47] Starting Two-Stream Instability
+[2025-12-11 01:57:47] ============================================================
+[2025-12-11 01:57:47] 
+--- TASK 1: Baseline Two-Stream Run ---
+[2025-12-11 01:57:47] Running baseline simulation with animation...
+[2025-12-11 01:58:10] Saved baseline growth plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/first_harmonic_growth.png
+[2025-12-11 01:58:10] 
+=== PHYSICAL INTERPRETATION ===
+[2025-12-11 01:58:10] • Measured growth rate γ ≈ -0.000
+[2025-12-11 01:58:10] • Phase space shows two beams folding into vortices (electron trapping)
+[2025-12-11 01:58:10] • Final state: BGK-like equilibrium with trapped particles
+[2025-12-11 01:58:10] 
+--- TASK 2: Growth Rate Measurement ---
+[2025-12-11 01:58:10] Method: Linear fit to log(A) in automatically detected growth region
+[2025-12-11 01:58:10] Limitations:
+[2025-12-11 01:58:10]   • Requires clear exponential growth phase
+[2025-12-11 01:58:10]   • Sensitive to noise floor selection
+[2025-12-11 01:58:10]   • May miss early/late growth phases
+[2025-12-11 01:58:10] Baseline measurement: γ=0.0011 (t=2.0-79.2, quality=1.00)
+[2025-12-11 01:58:10] 
+--- TASK 3: Instability Thresholds ---
+[2025-12-11 01:58:10] Analytic upper threshold: vbeam ≥ 22.508
+[2025-12-11 01:58:10]   (k = 0.063, ω_pe_total = √2 = 1.414)
+[2025-12-11 01:58:10] Scanning vbeam from 0.0 to 8.0
+[2025-12-11 01:58:10] 
+--- Default beams (width = 1.0) ---
+[2025-12-11 01:58:10] Starting two-stream scan (default)
+[2025-12-11 02:02:11] vbeam=0.00: γ=0.0000±0.0000, sat=0.0±0.0 (0/5 valid)
+[2025-12-11 02:02:11] vbeam=0.42: γ=0.0009±0.0000, sat=0.0±0.0 (3/5 valid)
+[2025-12-11 02:02:11] vbeam=0.84: γ=0.0000±0.0000, sat=0.0±0.0 (0/5 valid)
+[2025-12-11 02:02:11] vbeam=1.26: γ=0.0000±0.0000, sat=0.0±0.0 (0/5 valid)
+[2025-12-11 02:02:11] vbeam=1.68: γ=0.0088±0.0000, sat=0.0±0.0 (1/5 valid)
+[2025-12-11 02:02:11] vbeam=2.11: γ=0.0235±0.0000, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:02:11] vbeam=2.53: γ=0.0239±0.0149, sat=0.4±0.0 (5/5 valid)
+[2025-12-11 02:02:11] vbeam=2.95: γ=0.0315±0.0000, sat=0.4±0.0 (5/5 valid)
+[2025-12-11 02:02:11] vbeam=3.37: γ=0.0615±0.0000, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:02:11] vbeam=3.79: γ=0.0487±0.0315, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:02:11] vbeam=4.21: γ=0.0258±0.0039, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:02:11] vbeam=4.63: γ=0.0580±0.0000, sat=0.4±0.0 (5/5 valid)
+[2025-12-11 02:02:11] vbeam=5.05: γ=0.0311±0.0057, sat=0.1±0.2 (5/5 valid)
+[2025-12-11 02:02:11] vbeam=5.47: γ=0.0447±0.0253, sat=0.3±0.3 (5/5 valid)
+[2025-12-11 02:02:11] vbeam=5.89: γ=0.0184±0.0054, sat=1.0±0.5 (5/5 valid)
+[2025-12-11 02:02:11] vbeam=6.32: γ=0.0208±0.0090, sat=0.2±0.5 (5/5 valid)
+[2025-12-11 02:02:11] vbeam=6.74: γ=0.0913±0.1502, sat=0.3±0.5 (5/5 valid)
+[2025-12-11 02:02:11] vbeam=7.16: γ=0.1479±0.1605, sat=0.4±0.4 (5/5 valid)
+[2025-12-11 02:02:11] vbeam=7.58: γ=0.0320±0.0165, sat=0.2±0.2 (5/5 valid)
+[2025-12-11 02:02:11] vbeam=8.00: γ=0.0103±0.0079, sat=0.2±0.2 (5/5 valid)
+[2025-12-11 02:02:11] Saved growth rate summary: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default_summary.csv
+[2025-12-11 02:02:11] Saved saturation summary: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default_saturation.csv
+[2025-12-11 02:02:11] Saved growth rate plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_vs_vbeam.png
+[2025-12-11 02:02:12] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_heatmap.png
+[2025-12-11 02:02:12] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_noise_floor_heatmap.png
+[2025-12-11 02:02:13] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_sat_time_heatmap.png
+[2025-12-11 02:02:14] Saved analytic comparison plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_analytic_comparison.png
+[2025-12-11 02:02:14] 
+============================================================
+[2025-12-11 02:02:14] SATURATION TIME ANALYSIS - DEFAULT BEAMS
+[2025-12-11 02:02:14] ============================================================
+[2025-12-11 02:02:14] 
+6.2 Saturation Time
+[2025-12-11 02:02:14] Definition: First time when dA/dt ≤ 0
+[2025-12-11 02:02:14] Trend: Saturation occurs earlier for larger vbeam
+[2025-12-11 02:02:14] 
+vbeam range	Saturation time (approx)
+[2025-12-11 02:02:14] --------------------------------------------------
+[2025-12-11 02:02:14] 2.0-3.0	t = 0-0
+[2025-12-11 02:02:14] 3.0-4.0	t = 0-0
+[2025-12-11 02:02:14] 4.0-5.0	t = 0-0
+[2025-12-11 02:02:14] 5.0-6.0	t = 0-0
+[2025-12-11 02:02:14] 6.0-7.0	t = 0-0
+[2025-12-11 02:02:14] 
+Explanation: Stronger instability (larger γ) grows faster,
+[2025-12-11 02:02:14] reaches trapping threshold sooner, leading to earlier saturation.
+[2025-12-11 02:02:14] 
+----------------------------------------------------------------------
+[2025-12-11 02:02:14] DETAILED SATURATION TIMES:
+[2025-12-11 02:02:14] ----------------------------------------------------------------------
+[2025-12-11 02:02:14] vbeam    Mean       Std        Min        Max        n      Noise       
+[2025-12-11 02:02:14] ----------------------------------------------------------------------
+[2025-12-11 02:02:14] 0.00     0.00       0.00       0.00       0.00       5.0    0.001120    
+[2025-12-11 02:02:14] 0.42     0.00       0.00       0.00       0.00       5.0    0.000951    
+[2025-12-11 02:02:14] 0.84     0.00       0.00       0.00       0.00       5.0    0.000483    
+[2025-12-11 02:02:14] 1.26     0.00       0.00       0.00       0.00       5.0    0.001126    
+[2025-12-11 02:02:14] 1.68     0.00       0.00       0.00       0.00       5.0    0.000725    
+[2025-12-11 02:02:14] 2.11     0.00       0.00       0.00       0.00       5.0    0.000152    
+[2025-12-11 02:02:14] 2.53     0.40       0.00       0.40       0.40       5.0    0.001144    
+[2025-12-11 02:02:14] 2.95     0.40       0.00       0.40       0.40       5.0    0.001060    
+[2025-12-11 02:02:14] 3.37     0.00       0.00       0.00       0.00       5.0    0.000391    
+[2025-12-11 02:02:14] 3.79     0.00       0.00       0.00       0.00       5.0    0.001477    
+[2025-12-11 02:02:14] 4.21     0.00       0.00       0.00       0.00       5.0    0.001022    
+[2025-12-11 02:02:14] 4.63     0.40       0.00       0.40       0.40       5.0    0.001116    
+[2025-12-11 02:02:14] 5.05     0.08       0.16       0.00       0.40       5.0    0.001833    
+[2025-12-11 02:02:14] 5.47     0.32       0.30       0.00       0.80       5.0    0.003048    
+[2025-12-11 02:02:14] 5.89     0.96       0.48       0.00       1.21       5.0    0.003416    
+[2025-12-11 02:02:14] 6.32     0.24       0.48       0.00       1.21       5.0    0.002037    
+[2025-12-11 02:02:14] 6.74     0.32       0.47       0.00       1.21       5.0    0.001807    
+[2025-12-11 02:02:14] 7.16     0.40       0.44       0.00       1.21       5.0    0.002107    
+[2025-12-11 02:02:14] 7.58     0.16       0.20       0.00       0.40       5.0    0.001422    
+[2025-12-11 02:02:14] 8.00     0.24       0.20       0.00       0.40       5.0    0.003520    
+[2025-12-11 02:02:14] Saved saturation time plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/saturation_time_default.png
+[2025-12-11 02:02:14] Saved γ vs saturation correlation plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/gamma_vs_saturation_default.png
+[2025-12-11 02:02:14] 
+Correlation analysis for default beams:
+[2025-12-11 02:02:14]   Correlation coefficient (γ vs sat_time): 0.169
+[2025-12-11 02:02:14]   Slope: 1.196 (saturation time decreases by -1.20 per unit γ)
+[2025-12-11 02:02:14] 
+--- Narrow beams (width = 0.1) ---
+[2025-12-11 02:02:14] Starting two-stream scan (narrow)
+[2025-12-11 02:05:02] vbeam=0.00: γ=0.0000±0.0000, sat=0.0±0.0 (0/3 valid)
+[2025-12-11 02:05:02] vbeam=0.42: γ=0.0000±0.0000, sat=0.0±0.0 (0/3 valid)
+[2025-12-11 02:05:02] vbeam=0.84: γ=0.0000±0.0000, sat=0.0±0.0 (0/3 valid)
+[2025-12-11 02:05:02] vbeam=1.26: γ=0.0013±0.0000, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:05:02] vbeam=1.68: γ=0.0042±0.0000, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:05:02] vbeam=2.11: γ=0.0067±0.0000, sat=0.0±0.0 (2/3 valid)
+[2025-12-11 02:05:02] vbeam=2.53: γ=0.0072±0.0000, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:05:02] vbeam=2.95: γ=0.0158±0.0061, sat=0.4±0.6 (3/3 valid)
+[2025-12-11 02:05:02] vbeam=3.37: γ=0.0146±0.0025, sat=0.8±0.6 (3/3 valid)
+[2025-12-11 02:05:02] vbeam=3.79: γ=0.0133±0.0000, sat=1.2±0.0 (3/3 valid)
+[2025-12-11 02:05:02] vbeam=4.21: γ=0.0066±0.0000, sat=0.8±0.6 (1/3 valid)
+[2025-12-11 02:05:02] vbeam=4.63: γ=0.0030±0.0034, sat=0.8±0.6 (3/3 valid)
+[2025-12-11 02:05:02] vbeam=5.05: γ=0.0087±0.0071, sat=0.3±0.2 (3/3 valid)
+[2025-12-11 02:05:02] vbeam=5.47: γ=0.0201±0.0084, sat=0.1±0.2 (3/3 valid)
+[2025-12-11 02:05:02] vbeam=5.89: γ=0.0174±0.0060, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:05:02] vbeam=6.32: γ=0.0179±0.0000, sat=0.3±0.4 (2/3 valid)
+[2025-12-11 02:05:02] vbeam=6.74: γ=0.0171±0.0004, sat=0.3±0.4 (3/3 valid)
+[2025-12-11 02:05:02] vbeam=7.16: γ=0.0638±0.0000, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:05:02] vbeam=7.58: γ=0.0207±0.0053, sat=0.5±0.4 (3/3 valid)
+[2025-12-11 02:05:02] vbeam=8.00: γ=0.0228±0.0029, sat=0.5±0.4 (3/3 valid)
+[2025-12-11 02:05:02] Saved growth rate summary: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow_summary.csv
+[2025-12-11 02:05:02] Saved saturation summary: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow_saturation.csv
+[2025-12-11 02:05:03] Saved growth rate plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma_vs_vbeam.png
+[2025-12-11 02:05:03] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma_heatmap.png
+[2025-12-11 02:05:04] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_noise_floor_heatmap.png
+[2025-12-11 02:05:04] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_sat_time_heatmap.png
+[2025-12-11 02:05:05] Saved analytic comparison plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_analytic_comparison.png
+[2025-12-11 02:05:05] 
+============================================================
+[2025-12-11 02:05:05] SATURATION TIME ANALYSIS - NARROW BEAMS
+[2025-12-11 02:05:05] ============================================================
+[2025-12-11 02:05:05] 
+6.2 Saturation Time
+[2025-12-11 02:05:05] Definition: First time when dA/dt ≤ 0
+[2025-12-11 02:05:05] Trend: Saturation occurs earlier for larger vbeam
+[2025-12-11 02:05:05] 
+vbeam range	Saturation time (approx)
+[2025-12-11 02:05:05] --------------------------------------------------
+[2025-12-11 02:05:05] 2.0-3.0	t = 0-0
+[2025-12-11 02:05:05] 3.0-4.0	t = 0-1
+[2025-12-11 02:05:05] 4.0-5.0	t = 0-1
+[2025-12-11 02:05:05] 5.0-6.0	t = 0-0
+[2025-12-11 02:05:05] 6.0-7.0	t = 0-0
+[2025-12-11 02:05:05] 
+Explanation: Stronger instability (larger γ) grows faster,
+[2025-12-11 02:05:05] reaches trapping threshold sooner, leading to earlier saturation.
+[2025-12-11 02:05:05] 
+----------------------------------------------------------------------
+[2025-12-11 02:05:05] DETAILED SATURATION TIMES:
+[2025-12-11 02:05:05] ----------------------------------------------------------------------
+[2025-12-11 02:05:05] vbeam    Mean       Std        Min        Max        n      Noise       
+[2025-12-11 02:05:05] ----------------------------------------------------------------------
+[2025-12-11 02:05:05] 0.00     0.00       0.00       0.00       0.00       3.0    0.000217    
+[2025-12-11 02:05:05] 0.42     0.00       0.00       0.00       0.00       3.0    0.000182    
+[2025-12-11 02:05:05] 0.84     0.00       0.00       0.00       0.00       3.0    0.000315    
+[2025-12-11 02:05:05] 1.26     0.00       0.00       0.00       0.00       3.0    0.000196    
+[2025-12-11 02:05:05] 1.68     0.00       0.00       0.00       0.00       3.0    0.000558    
+[2025-12-11 02:05:05] 2.11     0.00       0.00       0.00       0.00       3.0    0.000676    
+[2025-12-11 02:05:05] 2.53     0.00       0.00       0.00       0.00       3.0    0.000994    
+[2025-12-11 02:05:05] 2.95     0.40       0.57       0.00       1.21       3.0    0.001054    
+[2025-12-11 02:05:05] 3.37     0.80       0.57       0.00       1.21       3.0    0.001892    
+[2025-12-11 02:05:05] 3.79     1.21       0.00       1.21       1.21       3.0    0.001736    
+[2025-12-11 02:05:05] 4.21     0.80       0.57       0.40       1.61       3.0    0.002354    
+[2025-12-11 02:05:05] 4.63     0.80       0.57       0.40       1.61       3.0    0.001895    
+[2025-12-11 02:05:05] 5.05     0.27       0.19       0.00       0.40       3.0    0.000827    
+[2025-12-11 02:05:05] 5.47     0.13       0.19       0.00       0.40       3.0    0.001629    
+[2025-12-11 02:05:05] 5.89     0.00       0.00       0.00       0.00       3.0    0.002792    
+[2025-12-11 02:05:05] 6.32     0.27       0.38       0.00       0.80       3.0    0.001475    
+[2025-12-11 02:05:05] 6.74     0.27       0.38       0.00       0.80       3.0    0.001122    
+[2025-12-11 02:05:05] 7.16     0.00       0.00       0.00       0.00       3.0    0.001383    
+[2025-12-11 02:05:05] 7.58     0.54       0.38       0.00       0.80       3.0    0.001464    
+[2025-12-11 02:05:05] 8.00     0.54       0.38       0.00       0.80       3.0    0.002336    
+[2025-12-11 02:05:05] Saved saturation time plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/saturation_time_narrow.png
+[2025-12-11 02:05:06] Saved γ vs saturation correlation plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/gamma_vs_saturation_narrow.png
+[2025-12-11 02:05:06] 
+Correlation analysis for narrow beams:
+[2025-12-11 02:05:06]   Correlation coefficient (γ vs sat_time): -0.155
+[2025-12-11 02:05:06]   Slope: -4.083 (saturation time decreases by 4.08 per unit γ)
+[2025-12-11 02:05:06] 
+=== THRESHOLD COMPARISON ===
+[2025-12-11 02:05:06] Upper threshold (analytic): 22.508
+[2025-12-11 02:05:06] Experimental threshold (default): 1.684
+[2025-12-11 02:05:06] Experimental threshold (narrow): 1.263
+[2025-12-11 02:05:06] 
+Comments on agreement:
+[2025-12-11 02:05:06] • Narrow beams should agree better with cold beam theory
+[2025-12-11 02:05:06] • Default beams have thermal spread → higher threshold
+[2025-12-11 02:05:06] • Finite width stabilizes some modes → reduced growth rates
+[2025-12-11 02:05:06] 
+--- OPTIONAL: Bump-on-Tail Heating ---
+[2025-12-11 02:05:06] Running bump-on-tail analysis: vbump=3.0, fraction=0.1
+[2025-12-11 02:05:17] Bump-on-tail analysis results:
+[2025-12-11 02:05:17]   Initial: μ=0.007, σ=0.886 (T=0.785)
+[2025-12-11 02:05:17]   Final:   μ=0.007, σ=0.886 (T=0.785)
+[2025-12-11 02:05:17]   Temperature increase: 0.000
+[2025-12-11 02:05:17]   Mean velocity change: 0.000
+[2025-12-11 02:05:17] 
+--- Parameter variation ---
+[2025-12-11 02:05:17] Running bump-on-tail analysis: vbump=2.0, fraction=0.1
+[2025-12-11 02:05:25] Bump-on-tail analysis results:
+[2025-12-11 02:05:25]   Initial: μ=0.140, σ=1.207 (T=1.457)
+[2025-12-11 02:05:25]   Final:   μ=0.140, σ=1.207 (T=1.457)
+[2025-12-11 02:05:25]   Temperature increase: 0.000
+[2025-12-11 02:05:25]   Mean velocity change: 0.000
+[2025-12-11 02:05:25] vbump=2.0: ΔT=0.000, Δμ=0.000
+[2025-12-11 02:05:25] Running bump-on-tail analysis: vbump=3.0, fraction=0.1
+[2025-12-11 02:05:35] Bump-on-tail analysis results:
+[2025-12-11 02:05:35]   Initial: μ=-0.027, σ=0.910 (T=0.827)
+[2025-12-11 02:05:35]   Final:   μ=-0.027, σ=0.910 (T=0.827)
+[2025-12-11 02:05:35]   Temperature increase: 0.000
+[2025-12-11 02:05:35]   Mean velocity change: 0.000
+[2025-12-11 02:05:35] vbump=3.0: ΔT=0.000, Δμ=0.000
+[2025-12-11 02:05:35] Running bump-on-tail analysis: vbump=4.0, fraction=0.1
+[2025-12-11 02:05:47] Bump-on-tail analysis results:
+[2025-12-11 02:05:47]   Initial: μ=0.016, σ=0.904 (T=0.817)
+[2025-12-11 02:05:47]   Final:   μ=0.016, σ=0.904 (T=0.817)
+[2025-12-11 02:05:47]   Temperature increase: 0.000
+[2025-12-11 02:05:47]   Mean velocity change: 0.000
+[2025-12-11 02:05:47] vbump=4.0: ΔT=0.000, Δμ=0.000
+[2025-12-11 02:05:47] 
+============================================================
+[2025-12-11 02:05:47] SIMULATION COMPLETE
+[2025-12-11 02:05:47] ============================================================
+[2025-12-11 02:05:47] Results saved to: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans
+[2025-12-11 02:05:47]   • CSV files: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv
+[2025-12-11 02:05:47]   • Plots: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots
+[2025-12-11 02:05:47]   • Logs: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/logs
+[2025-12-11 02:18:26] ============================================================
+[2025-12-11 02:18:26] Starting Two-Stream Instability
+[2025-12-11 02:18:26] ============================================================
+[2025-12-11 02:18:26] 
+--- TASK 1: Baseline Two-Stream Run ---
+[2025-12-11 02:18:26] Running baseline simulation with animation...
+[2025-12-11 02:18:50] Saved baseline growth plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/first_harmonic_growth.png
+[2025-12-11 02:18:51] 
+=== PHYSICAL INTERPRETATION ===
+[2025-12-11 02:18:51] • Measured growth rate γ ≈ 0.009
+[2025-12-11 02:18:51] • Phase space shows two beams folding into vortices (electron trapping)
+[2025-12-11 02:18:51] • Final state: BGK-like equilibrium with trapped particles
+[2025-12-11 02:18:51] 
+--- TASK 2: Growth Rate Measurement ---
+[2025-12-11 02:18:51] Method: Linear fit to log(A) in automatically detected growth region
+[2025-12-11 02:18:51] Limitations:
+[2025-12-11 02:18:51]   • Requires clear exponential growth phase
+[2025-12-11 02:18:51]   • Sensitive to noise floor selection
+[2025-12-11 02:18:51]   • May miss early/late growth phases
+[2025-12-11 02:18:51] Baseline measurement: γ=0.0308 (t=1.6-37.8, quality=1.00)
+[2025-12-11 02:18:51] 
+--- TASK 3: Instability Thresholds ---
+[2025-12-11 02:18:51] Analytic upper threshold: vbeam ≥ 22.508
+[2025-12-11 02:18:51]   (k = 0.063, ω_pe_total = √2 = 1.414)
+[2025-12-11 02:18:51] Scanning vbeam from 0.0 to 8.0
+[2025-12-11 02:18:51] 
+--- Default beams (width = 1.0) ---
+[2025-12-11 02:18:51] Starting two-stream scan (default)
+[2025-12-11 02:23:02] vbeam=0.00: γ=0.0000±0.0000, sat=0.0±0.0 (0/5 valid)
+[2025-12-11 02:23:02] vbeam=0.42: γ=0.0000±0.0000, sat=0.0±0.0 (0/5 valid)
+[2025-12-11 02:23:02] vbeam=0.84: γ=0.0000±0.0000, sat=0.0±0.0 (0/5 valid)
+[2025-12-11 02:23:02] vbeam=1.26: γ=0.0000±0.0000, sat=0.0±0.0 (0/5 valid)
+[2025-12-11 02:23:02] vbeam=1.68: γ=0.0000±0.0000, sat=0.0±0.0 (0/5 valid)
+[2025-12-11 02:23:02] vbeam=2.11: γ=0.0029±0.0000, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:23:02] vbeam=2.53: γ=0.0068±0.0009, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:23:02] vbeam=2.95: γ=0.0151±0.0010, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:23:02] vbeam=3.37: γ=0.0206±0.0052, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:23:02] vbeam=3.79: γ=0.0163±0.0014, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:23:02] vbeam=4.21: γ=0.0282±0.0072, sat=0.1±0.2 (5/5 valid)
+[2025-12-11 02:23:02] vbeam=4.63: γ=0.0503±0.0183, sat=0.1±0.2 (5/5 valid)
+[2025-12-11 02:23:02] vbeam=5.05: γ=0.1004±0.0095, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:23:02] vbeam=5.47: γ=0.0263±0.0137, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:23:02] vbeam=5.89: γ=0.0305±0.0123, sat=0.2±0.3 (5/5 valid)
+[2025-12-11 02:23:02] vbeam=6.32: γ=0.0217±0.0036, sat=0.5±0.4 (5/5 valid)
+[2025-12-11 02:23:02] vbeam=6.74: γ=0.0166±0.0042, sat=0.5±0.3 (5/5 valid)
+[2025-12-11 02:23:02] vbeam=7.16: γ=0.0241±0.0025, sat=0.3±0.2 (5/5 valid)
+[2025-12-11 02:23:02] vbeam=7.58: γ=0.0208±0.0079, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:23:02] vbeam=8.00: γ=0.0156±0.0087, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:23:02] Saved growth rate summary: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default_summary.csv
+[2025-12-11 02:23:02] Saved saturation summary: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default_saturation.csv
+[2025-12-11 02:23:02] Saved growth rate plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_vs_vbeam.png
+[2025-12-11 02:23:03] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_heatmap.png
+[2025-12-11 02:23:03] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_noise_floor_heatmap.png
+[2025-12-11 02:23:04] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_sat_time_heatmap.png
+[2025-12-11 02:23:04] Saved analytic comparison plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_analytic_comparison.png
+[2025-12-11 02:23:04] 
+============================================================
+[2025-12-11 02:23:04] SATURATION TIME ANALYSIS - DEFAULT BEAMS
+[2025-12-11 02:23:04] ============================================================
+[2025-12-11 02:23:04] 
+6.2 Saturation Time
+[2025-12-11 02:23:04] Definition: First time when dA/dt ≤ 0
+[2025-12-11 02:23:04] Trend: Saturation occurs earlier for larger vbeam
+[2025-12-11 02:23:04] 
+vbeam range	Saturation time (approx)
+[2025-12-11 02:23:04] --------------------------------------------------
+[2025-12-11 02:23:04] 2.0-3.0	t = 0-0
+[2025-12-11 02:23:04] 3.0-4.0	t = 0-0
+[2025-12-11 02:23:04] 4.0-5.0	t = 0-0
+[2025-12-11 02:23:04] 5.0-6.0	t = 0-0
+[2025-12-11 02:23:04] 6.0-7.0	t = 0-0
+[2025-12-11 02:23:04] 
+Explanation: Stronger instability (larger γ) grows faster,
+[2025-12-11 02:23:04] reaches trapping threshold sooner, leading to earlier saturation.
+[2025-12-11 02:23:04] 
+----------------------------------------------------------------------
+[2025-12-11 02:23:04] DETAILED SATURATION TIMES:
+[2025-12-11 02:23:04] ----------------------------------------------------------------------
+[2025-12-11 02:23:04] vbeam    Mean       Std        Min        Max        n      Noise       
+[2025-12-11 02:23:04] ----------------------------------------------------------------------
+[2025-12-11 02:23:04] 0.00     0.00       0.00       0.00       0.00       5.0    0.000058    
+[2025-12-11 02:23:04] 0.42     0.00       0.00       0.00       0.00       5.0    0.000466    
+[2025-12-11 02:23:04] 0.84     0.00       0.00       0.00       0.00       5.0    0.000240    
+[2025-12-11 02:23:04] 1.26     0.00       0.00       0.00       0.00       5.0    0.000734    
+[2025-12-11 02:23:04] 1.68     0.00       0.00       0.00       0.00       5.0    0.000235    
+[2025-12-11 02:23:04] 2.11     0.00       0.00       0.00       0.00       5.0    0.000363    
+[2025-12-11 02:23:04] 2.53     0.00       0.00       0.00       0.00       5.0    0.001084    
+[2025-12-11 02:23:04] 2.95     0.00       0.00       0.00       0.00       5.0    0.001099    
+[2025-12-11 02:23:04] 3.37     0.00       0.00       0.00       0.00       5.0    0.000260    
+[2025-12-11 02:23:04] 3.79     0.00       0.00       0.00       0.00       5.0    0.000455    
+[2025-12-11 02:23:04] 4.21     0.08       0.16       0.00       0.40       5.0    0.002387    
+[2025-12-11 02:23:04] 4.63     0.08       0.16       0.00       0.40       5.0    0.002426    
+[2025-12-11 02:23:04] 5.05     0.00       0.00       0.00       0.00       5.0    0.001054    
+[2025-12-11 02:23:04] 5.47     0.00       0.00       0.00       0.00       5.0    0.001882    
+[2025-12-11 02:23:04] 5.89     0.16       0.32       0.00       0.80       5.0    0.001507    
+[2025-12-11 02:23:04] 6.32     0.48       0.39       0.00       0.80       5.0    0.001972    
+[2025-12-11 02:23:04] 6.74     0.48       0.30       0.00       0.80       5.0    0.002281    
+[2025-12-11 02:23:04] 7.16     0.32       0.16       0.00       0.40       5.0    0.002291    
+[2025-12-11 02:23:04] 7.58     0.00       0.00       0.00       0.00       5.0    0.001786    
+[2025-12-11 02:23:04] 8.00     0.00       0.00       0.00       0.00       5.0    0.000756    
+[2025-12-11 02:23:05] Saved saturation time plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/saturation_time_default.png
+[2025-12-11 02:23:05] Saved γ vs saturation correlation plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/gamma_vs_saturation_default.png
+[2025-12-11 02:23:05] 
+Correlation analysis for default beams:
+[2025-12-11 02:23:05]   Correlation coefficient (γ vs sat_time): -0.087
+[2025-12-11 02:23:05]   Slope: -0.665 (saturation time decreases by 0.66 per unit γ)
+[2025-12-11 02:23:05] 
+--- Narrow beams (width = 0.1) ---
+[2025-12-11 02:23:05] Starting two-stream scan (narrow)
+[2025-12-11 02:25:47] vbeam=0.00: γ=0.0000±0.0000, sat=0.0±0.0 (0/3 valid)
+[2025-12-11 02:25:47] vbeam=0.42: γ=0.0000±0.0000, sat=0.0±0.0 (0/3 valid)
+[2025-12-11 02:25:47] vbeam=0.84: γ=0.0019±0.0000, sat=0.0±0.0 (1/3 valid)
+[2025-12-11 02:25:47] vbeam=1.26: γ=0.0000±0.0000, sat=0.0±0.0 (0/3 valid)
+[2025-12-11 02:25:47] vbeam=1.68: γ=0.0016±0.0000, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:25:47] vbeam=2.11: γ=0.0089±0.0033, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:25:47] vbeam=2.53: γ=0.0186±0.0000, sat=0.4±0.0 (3/3 valid)
+[2025-12-11 02:25:47] vbeam=2.95: γ=0.0147±0.0023, sat=0.4±0.0 (3/3 valid)
+[2025-12-11 02:25:47] vbeam=3.37: γ=0.0103±0.0034, sat=0.4±0.0 (3/3 valid)
+[2025-12-11 02:25:47] vbeam=3.79: γ=0.0128±0.0000, sat=0.4±0.0 (3/3 valid)
+[2025-12-11 02:25:47] vbeam=4.21: γ=0.0088±0.0000, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:25:47] vbeam=4.63: γ=0.0089±0.0000, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:25:47] vbeam=5.05: γ=0.0553±0.0282, sat=0.4±0.0 (3/3 valid)
+[2025-12-11 02:25:47] vbeam=5.47: γ=0.0161±0.0000, sat=0.4±0.0 (3/3 valid)
+[2025-12-11 02:25:47] vbeam=5.89: γ=0.0170±0.0026, sat=0.3±0.2 (3/3 valid)
+[2025-12-11 02:25:47] vbeam=6.32: γ=0.0150±0.0089, sat=0.1±0.2 (3/3 valid)
+[2025-12-11 02:25:47] vbeam=6.74: γ=0.0172±0.0072, sat=0.1±0.2 (3/3 valid)
+[2025-12-11 02:25:47] vbeam=7.16: γ=0.0261±0.0073, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:25:47] vbeam=7.58: γ=0.0060±0.0000, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:25:47] vbeam=8.00: γ=0.0071±0.0024, sat=0.3±0.4 (3/3 valid)
+[2025-12-11 02:25:47] Saved growth rate summary: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow_summary.csv
+[2025-12-11 02:25:47] Saved saturation summary: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow_saturation.csv
+[2025-12-11 02:25:48] Saved growth rate plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma_vs_vbeam.png
+[2025-12-11 02:25:49] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma_heatmap.png
+[2025-12-11 02:25:49] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_noise_floor_heatmap.png
+[2025-12-11 02:25:50] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_sat_time_heatmap.png
+[2025-12-11 02:25:50] Saved analytic comparison plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_analytic_comparison.png
+[2025-12-11 02:25:50] 
+============================================================
+[2025-12-11 02:25:50] SATURATION TIME ANALYSIS - NARROW BEAMS
+[2025-12-11 02:25:50] ============================================================
+[2025-12-11 02:25:50] 
+6.2 Saturation Time
+[2025-12-11 02:25:50] Definition: First time when dA/dt ≤ 0
+[2025-12-11 02:25:50] Trend: Saturation occurs earlier for larger vbeam
+[2025-12-11 02:25:50] 
+vbeam range	Saturation time (approx)
+[2025-12-11 02:25:50] --------------------------------------------------
+[2025-12-11 02:25:50] 2.0-3.0	t = 0-0
+[2025-12-11 02:25:50] 3.0-4.0	t = 0-0
+[2025-12-11 02:25:50] 4.0-5.0	t = 0-0
+[2025-12-11 02:25:50] 5.0-6.0	t = 0-0
+[2025-12-11 02:25:50] 6.0-7.0	t = 0-0
+[2025-12-11 02:25:50] 
+Explanation: Stronger instability (larger γ) grows faster,
+[2025-12-11 02:25:50] reaches trapping threshold sooner, leading to earlier saturation.
+[2025-12-11 02:25:50] 
+----------------------------------------------------------------------
+[2025-12-11 02:25:50] DETAILED SATURATION TIMES:
+[2025-12-11 02:25:50] ----------------------------------------------------------------------
+[2025-12-11 02:25:50] vbeam    Mean       Std        Min        Max        n      Noise       
+[2025-12-11 02:25:50] ----------------------------------------------------------------------
+[2025-12-11 02:25:50] 0.00     0.00       0.00       0.00       0.00       3.0    0.000136    
+[2025-12-11 02:25:50] 0.42     0.00       0.00       0.00       0.00       3.0    0.000301    
+[2025-12-11 02:25:50] 0.84     0.00       0.00       0.00       0.00       3.0    0.000535    
+[2025-12-11 02:25:50] 1.26     0.00       0.00       0.00       0.00       3.0    0.000293    
+[2025-12-11 02:25:50] 1.68     0.00       0.00       0.00       0.00       3.0    0.001115    
+[2025-12-11 02:25:50] 2.11     0.00       0.00       0.00       0.00       3.0    0.000257    
+[2025-12-11 02:25:50] 2.53     0.40       0.00       0.40       0.40       3.0    0.000980    
+[2025-12-11 02:25:50] 2.95     0.40       0.00       0.40       0.40       3.0    0.001043    
+[2025-12-11 02:25:50] 3.37     0.40       0.00       0.40       0.40       3.0    0.000923    
+[2025-12-11 02:25:50] 3.79     0.40       0.00       0.40       0.40       3.0    0.000545    
+[2025-12-11 02:25:50] 4.21     0.00       0.00       0.00       0.00       3.0    0.001409    
+[2025-12-11 02:25:50] 4.63     0.00       0.00       0.00       0.00       3.0    0.001678    
+[2025-12-11 02:25:50] 5.05     0.40       0.00       0.40       0.40       3.0    0.000309    
+[2025-12-11 02:25:50] 5.47     0.40       0.00       0.40       0.40       3.0    0.002573    
+[2025-12-11 02:25:50] 5.89     0.27       0.19       0.00       0.40       3.0    0.002108    
+[2025-12-11 02:25:50] 6.32     0.13       0.19       0.00       0.40       3.0    0.000723    
+[2025-12-11 02:25:50] 6.74     0.13       0.19       0.00       0.40       3.0    0.001349    
+[2025-12-11 02:25:50] 7.16     0.00       0.00       0.00       0.00       3.0    0.002158    
+[2025-12-11 02:25:50] 7.58     0.00       0.00       0.00       0.00       3.0    0.002585    
+[2025-12-11 02:25:50] 8.00     0.27       0.38       0.00       0.80       3.0    0.003003    
+[2025-12-11 02:25:51] Saved saturation time plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/saturation_time_narrow.png
+[2025-12-11 02:25:51] Saved γ vs saturation correlation plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/gamma_vs_saturation_narrow.png
+[2025-12-11 02:25:51] 
+Correlation analysis for narrow beams:
+[2025-12-11 02:25:51]   Correlation coefficient (γ vs sat_time): 0.431
+[2025-12-11 02:25:51]   Slope: 6.474 (saturation time decreases by -6.47 per unit γ)
+[2025-12-11 02:25:51] 
+=== THRESHOLD COMPARISON ===
+[2025-12-11 02:25:51] Upper threshold (analytic): 22.508
+[2025-12-11 02:25:51] Experimental threshold (default): 2.105
+[2025-12-11 02:25:51] Experimental threshold (narrow): 0.842
+[2025-12-11 02:25:51] 
+Comments on agreement:
+[2025-12-11 02:25:51] • Narrow beams should agree better with cold beam theory
+[2025-12-11 02:25:51] • Default beams have thermal spread → higher threshold
+[2025-12-11 02:25:51] • Finite width stabilizes some modes → reduced growth rates
+[2025-12-11 02:25:51] 
+--- OPTIONAL: Bump-on-Tail Heating ---
+[2025-12-11 02:25:51] Running bump-on-tail analysis: vbump=3.0, fraction=0.1
+[2025-12-11 02:26:01] Bump-on-tail analysis results:
+[2025-12-11 02:26:01]   Initial: μ=0.022, σ=0.900 (T=0.809)
+[2025-12-11 02:26:01]   Final:   μ=0.022, σ=0.900 (T=0.809)
+[2025-12-11 02:26:01]   Temperature increase: 0.000
+[2025-12-11 02:26:01]   Mean velocity change: 0.000
+[2025-12-11 02:26:01] 
+--- Parameter variation ---
+[2025-12-11 02:26:01] Running bump-on-tail analysis: vbump=2.0, fraction=0.1
+[2025-12-11 02:26:10] Bump-on-tail analysis results:
+[2025-12-11 02:26:10]   Initial: μ=0.139, σ=1.255 (T=1.576)
+[2025-12-11 02:26:10]   Final:   μ=0.139, σ=1.255 (T=1.576)
+[2025-12-11 02:26:10]   Temperature increase: 0.000
+[2025-12-11 02:26:10]   Mean velocity change: 0.000
+[2025-12-11 02:26:10] vbump=2.0: ΔT=0.000, Δμ=0.000
+[2025-12-11 02:26:10] Running bump-on-tail analysis: vbump=3.0, fraction=0.1
+[2025-12-11 02:26:19] Bump-on-tail analysis results:
+[2025-12-11 02:26:19]   Initial: μ=0.013, σ=0.910 (T=0.827)
+[2025-12-11 02:26:19]   Final:   μ=0.013, σ=0.910 (T=0.827)
+[2025-12-11 02:26:19]   Temperature increase: 0.000
+[2025-12-11 02:26:19]   Mean velocity change: 0.000
+[2025-12-11 02:26:19] vbump=3.0: ΔT=0.000, Δμ=0.000
+[2025-12-11 02:26:19] Running bump-on-tail analysis: vbump=4.0, fraction=0.1
+[2025-12-11 02:26:32] Bump-on-tail analysis results:
+[2025-12-11 02:26:32]   Initial: μ=0.011, σ=0.906 (T=0.821)
+[2025-12-11 02:26:32]   Final:   μ=0.011, σ=0.906 (T=0.821)
+[2025-12-11 02:26:32]   Temperature increase: 0.000
+[2025-12-11 02:26:32]   Mean velocity change: 0.000
+[2025-12-11 02:26:32] vbump=4.0: ΔT=0.000, Δμ=0.000
+[2025-12-11 02:26:32] 
+============================================================
+[2025-12-11 02:26:32] SIMULATION COMPLETE
+[2025-12-11 02:26:32] ============================================================
+[2025-12-11 02:26:32] Results saved to: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans
+[2025-12-11 02:26:32]   • CSV files: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv
+[2025-12-11 02:26:32]   • Plots: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots
+[2025-12-11 02:26:32]   • Logs: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/logs
+[2025-12-11 02:46:08] ============================================================
+[2025-12-11 02:46:08] Starting Two-Stream Instability
+[2025-12-11 02:46:08] ============================================================
+[2025-12-11 02:46:08] 
+--- TASK 1: Baseline Two-Stream Run ---
+[2025-12-11 02:46:08] Running baseline simulation with animation...
+[2025-12-11 02:46:25] Saved baseline growth plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/first_harmonic_growth.png
+[2025-12-11 02:46:25] 
+=== PHYSICAL INTERPRETATION ===
+[2025-12-11 02:46:25] • Measured growth rate γ ≈ 0.021
+[2025-12-11 02:46:25] • Phase space shows two beams folding into vortices (electron trapping)
+[2025-12-11 02:46:25] • Final state: BGK-like equilibrium with trapped particles
+[2025-12-11 02:46:25] 
+--- TASK 2: Growth Rate Measurement ---
+[2025-12-11 02:46:25] Method: Linear fit to log(A) in automatically detected growth region
+[2025-12-11 02:46:25] Limitations:
+[2025-12-11 02:46:25]   • Requires clear exponential growth phase
+[2025-12-11 02:46:25]   • Sensitive to noise floor selection
+[2025-12-11 02:46:25]   • May miss early/late growth phases
+[2025-12-11 02:46:25] Baseline measurement: γ=0.0464 (t=1.6-25.7, quality=1.00)
+[2025-12-11 02:46:25] 
+--- TASK 3: Instability Thresholds ---
+[2025-12-11 02:46:25] Analytic upper threshold: vbeam ≥ 22.508
+[2025-12-11 02:46:25]   (k = 0.063, ω_pe_total = √2 = 1.414)
+[2025-12-11 02:46:25] Scanning vbeam from 0.0 to 8.0
+[2025-12-11 02:46:25] 
+--- Default beams (width = 1.0) ---
+[2025-12-11 02:46:25] Starting two-stream scan (default)
+[2025-12-11 02:48:44] vbeam=0.00: γ=0.0000±0.0000, sat=0.0±0.0 (0/5 valid)
+[2025-12-11 02:48:44] vbeam=0.42: γ=0.0002±0.0000, sat=0.0±0.0 (2/5 valid)
+[2025-12-11 02:48:44] vbeam=0.84: γ=0.0000±0.0000, sat=0.0±0.0 (0/5 valid)
+[2025-12-11 02:48:44] vbeam=1.26: γ=0.0006±0.0000, sat=0.0±0.0 (1/5 valid)
+[2025-12-11 02:48:44] vbeam=1.68: γ=0.0002±0.0000, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:48:44] vbeam=2.11: γ=0.0034±0.0000, sat=0.0±0.0 (1/5 valid)
+[2025-12-11 02:48:44] vbeam=2.53: γ=0.0048±0.0008, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:48:44] vbeam=2.95: γ=0.0123±0.0074, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:48:44] vbeam=3.37: γ=0.0076±0.0071, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:48:44] vbeam=3.79: γ=0.0077±0.0058, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:48:44] vbeam=4.21: γ=0.0452±0.0428, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:48:44] vbeam=4.63: γ=0.1282±0.0434, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:48:44] vbeam=5.05: γ=0.0646±0.0395, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:48:44] vbeam=5.47: γ=0.0488±0.0381, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:48:44] vbeam=5.89: γ=0.0184±0.0019, sat=0.0±0.0 (5/5 valid)
+[2025-12-11 02:48:44] vbeam=6.32: γ=0.0580±0.0625, sat=0.1±0.2 (5/5 valid)
+[2025-12-11 02:48:44] vbeam=6.74: γ=0.0522±0.0720, sat=0.2±0.2 (5/5 valid)
+[2025-12-11 02:48:44] vbeam=7.16: γ=0.0128±0.0038, sat=0.2±0.2 (5/5 valid)
+[2025-12-11 02:48:44] vbeam=7.58: γ=0.0172±0.0113, sat=0.2±0.2 (5/5 valid)
+[2025-12-11 02:48:44] vbeam=8.00: γ=0.0260±0.0096, sat=0.2±0.2 (5/5 valid)
+[2025-12-11 02:48:44] Saved growth rate summary: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default_summary.csv
+[2025-12-11 02:48:44] Saved saturation summary: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_default_saturation.csv
+[2025-12-11 02:48:44] Saved growth rate plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_vs_vbeam.png
+[2025-12-11 02:48:44] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_gamma_heatmap.png
+[2025-12-11 02:48:45] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_noise_floor_heatmap.png
+[2025-12-11 02:48:45] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_sat_time_heatmap.png
+[2025-12-11 02:48:45] Saved analytic comparison plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_default_analytic_comparison.png
+[2025-12-11 02:48:45] 
+============================================================
+[2025-12-11 02:48:45] SATURATION TIME ANALYSIS - DEFAULT BEAMS
+[2025-12-11 02:48:45] ============================================================
+[2025-12-11 02:48:45] 
+6.2 Saturation Time
+[2025-12-11 02:48:45] Definition: First time when dA/dt ≤ 0
+[2025-12-11 02:48:45] Trend: Saturation occurs earlier for larger vbeam
+[2025-12-11 02:48:45] 
+vbeam range	Saturation time (approx)
+[2025-12-11 02:48:45] --------------------------------------------------
+[2025-12-11 02:48:45] 2.0-3.0	t = 0-0
+[2025-12-11 02:48:45] 3.0-4.0	t = 0-0
+[2025-12-11 02:48:45] 4.0-5.0	t = 0-0
+[2025-12-11 02:48:45] 5.0-6.0	t = 0-0
+[2025-12-11 02:48:45] 6.0-7.0	t = 0-0
+[2025-12-11 02:48:45] 
+Explanation: Stronger instability (larger γ) grows faster,
+[2025-12-11 02:48:45] reaches trapping threshold sooner, leading to earlier saturation.
+[2025-12-11 02:48:45] 
+----------------------------------------------------------------------
+[2025-12-11 02:48:45] DETAILED SATURATION TIMES:
+[2025-12-11 02:48:45] ----------------------------------------------------------------------
+[2025-12-11 02:48:45] vbeam    Mean       Std        Min        Max        n      Noise       
+[2025-12-11 02:48:45] ----------------------------------------------------------------------
+[2025-12-11 02:48:45] 0.00     0.00       0.00       0.00       0.00       5.0    0.000571    
+[2025-12-11 02:48:45] 0.42     0.00       0.00       0.00       0.00       5.0    0.000489    
+[2025-12-11 02:48:45] 0.84     0.00       0.00       0.00       0.00       5.0    0.001042    
+[2025-12-11 02:48:45] 1.26     0.00       0.00       0.00       0.00       5.0    0.001249    
+[2025-12-11 02:48:45] 1.68     0.00       0.00       0.00       0.00       5.0    0.000925    
+[2025-12-11 02:48:45] 2.11     0.00       0.00       0.00       0.00       5.0    0.000468    
+[2025-12-11 02:48:45] 2.53     0.00       0.00       0.00       0.00       5.0    0.001676    
+[2025-12-11 02:48:45] 2.95     0.00       0.00       0.00       0.00       5.0    0.000730    
+[2025-12-11 02:48:45] 3.37     0.00       0.00       0.00       0.00       5.0    0.000500    
+[2025-12-11 02:48:45] 3.79     0.00       0.00       0.00       0.00       5.0    0.000266    
+[2025-12-11 02:48:45] 4.21     0.00       0.00       0.00       0.00       5.0    0.001011    
+[2025-12-11 02:48:45] 4.63     0.00       0.00       0.00       0.00       5.0    0.002310    
+[2025-12-11 02:48:45] 5.05     0.00       0.00       0.00       0.00       5.0    0.001965    
+[2025-12-11 02:48:45] 5.47     0.00       0.00       0.00       0.00       5.0    0.003000    
+[2025-12-11 02:48:45] 5.89     0.00       0.00       0.00       0.00       5.0    0.003237    
+[2025-12-11 02:48:45] 6.32     0.08       0.16       0.00       0.40       5.0    0.001546    
+[2025-12-11 02:48:45] 6.74     0.24       0.20       0.00       0.40       5.0    0.002318    
+[2025-12-11 02:48:45] 7.16     0.24       0.20       0.00       0.40       5.0    0.002773    
+[2025-12-11 02:48:45] 7.58     0.16       0.20       0.00       0.40       5.0    0.002676    
+[2025-12-11 02:48:45] 8.00     0.16       0.20       0.00       0.40       5.0    0.003203    
+[2025-12-11 02:48:45] Saved saturation time plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/saturation_time_default.png
+[2025-12-11 02:48:46] Saved γ vs saturation correlation plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/gamma_vs_saturation_default.png
+[2025-12-11 02:48:46] 
+Correlation analysis for default beams:
+[2025-12-11 02:48:46]   Correlation coefficient (γ vs sat_time): 0.047
+[2025-12-11 02:48:46]   Slope: 0.126 (saturation time decreases by -0.13 per unit γ)
+[2025-12-11 02:48:46] 
+--- Narrow beams (width = 0.1) ---
+[2025-12-11 02:48:46] Starting two-stream scan (narrow)
+[2025-12-11 02:50:25] vbeam=0.00: γ=0.0000±0.0000, sat=0.0±0.0 (0/3 valid)
+[2025-12-11 02:50:25] vbeam=0.42: γ=0.0000±0.0000, sat=0.0±0.0 (0/3 valid)
+[2025-12-11 02:50:25] vbeam=0.84: γ=0.0002±0.0000, sat=0.0±0.0 (2/3 valid)
+[2025-12-11 02:50:25] vbeam=1.26: γ=0.0000±0.0000, sat=0.0±0.0 (0/3 valid)
+[2025-12-11 02:50:25] vbeam=1.68: γ=0.0000±0.0000, sat=0.0±0.0 (0/3 valid)
+[2025-12-11 02:50:25] vbeam=2.11: γ=0.0030±0.0011, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:50:25] vbeam=2.53: γ=0.0006±0.0000, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:50:25] vbeam=2.95: γ=0.0117±0.0043, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:50:25] vbeam=3.37: γ=0.0046±0.0002, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:50:25] vbeam=3.79: γ=0.0162±0.0000, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:50:25] vbeam=4.21: γ=0.0118±0.0002, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:50:25] vbeam=4.63: γ=0.0133±0.0022, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:50:25] vbeam=5.05: γ=0.0146±0.0018, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:50:25] vbeam=5.47: γ=0.0111±0.0000, sat=0.0±0.0 (2/3 valid)
+[2025-12-11 02:50:25] vbeam=5.89: γ=0.0000±0.0000, sat=0.0±0.0 (0/3 valid)
+[2025-12-11 02:50:25] vbeam=6.32: γ=0.0178±0.0000, sat=0.0±0.0 (2/3 valid)
+[2025-12-11 02:50:25] vbeam=6.74: γ=0.0047±0.0000, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:50:25] vbeam=7.16: γ=0.0074±0.0044, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:50:25] vbeam=7.58: γ=0.0171±0.0058, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:50:25] vbeam=8.00: γ=0.0134±0.0001, sat=0.0±0.0 (3/3 valid)
+[2025-12-11 02:50:25] Saved growth rate summary: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow_summary.csv
+[2025-12-11 02:50:25] Saved saturation summary: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv/twostream_narrow_saturation.csv
+[2025-12-11 02:50:25] Saved growth rate plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma_vs_vbeam.png
+[2025-12-11 02:50:26] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_gamma_heatmap.png
+[2025-12-11 02:50:26] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_noise_floor_heatmap.png
+[2025-12-11 02:50:26] Saved heatmap: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_sat_time_heatmap.png
+[2025-12-11 02:50:26] Saved analytic comparison plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/twostream_narrow_analytic_comparison.png
+[2025-12-11 02:50:26] 
+============================================================
+[2025-12-11 02:50:26] SATURATION TIME ANALYSIS - NARROW BEAMS
+[2025-12-11 02:50:26] ============================================================
+[2025-12-11 02:50:26] 
+6.2 Saturation Time
+[2025-12-11 02:50:26] Definition: First time when dA/dt ≤ 0
+[2025-12-11 02:50:26] Trend: Saturation occurs earlier for larger vbeam
+[2025-12-11 02:50:26] 
+vbeam range	Saturation time (approx)
+[2025-12-11 02:50:26] --------------------------------------------------
+[2025-12-11 02:50:26] 2.0-3.0	t = 0-0
+[2025-12-11 02:50:26] 3.0-4.0	t = 0-0
+[2025-12-11 02:50:26] 4.0-5.0	t = 0-0
+[2025-12-11 02:50:26] 5.0-6.0	t = 0-0
+[2025-12-11 02:50:26] 6.0-7.0	t = 0-0
+[2025-12-11 02:50:26] 
+Explanation: Stronger instability (larger γ) grows faster,
+[2025-12-11 02:50:26] reaches trapping threshold sooner, leading to earlier saturation.
+[2025-12-11 02:50:26] 
+----------------------------------------------------------------------
+[2025-12-11 02:50:26] DETAILED SATURATION TIMES:
+[2025-12-11 02:50:26] ----------------------------------------------------------------------
+[2025-12-11 02:50:26] vbeam    Mean       Std        Min        Max        n      Noise       
+[2025-12-11 02:50:26] ----------------------------------------------------------------------
+[2025-12-11 02:50:26] 0.00     0.00       0.00       0.00       0.00       3.0    0.000119    
+[2025-12-11 02:50:26] 0.42     0.00       0.00       0.00       0.00       3.0    0.000292    
+[2025-12-11 02:50:26] 0.84     0.00       0.00       0.00       0.00       3.0    0.000485    
+[2025-12-11 02:50:26] 1.26     0.00       0.00       0.00       0.00       3.0    0.000513    
+[2025-12-11 02:50:26] 1.68     0.00       0.00       0.00       0.00       3.0    0.000759    
+[2025-12-11 02:50:26] 2.11     0.00       0.00       0.00       0.00       3.0    0.000960    
+[2025-12-11 02:50:26] 2.53     0.00       0.00       0.00       0.00       3.0    0.001469    
+[2025-12-11 02:50:26] 2.95     0.00       0.00       0.00       0.00       3.0    0.001130    
+[2025-12-11 02:50:26] 3.37     0.00       0.00       0.00       0.00       3.0    0.000679    
+[2025-12-11 02:50:26] 3.79     0.00       0.00       0.00       0.00       3.0    0.001047    
+[2025-12-11 02:50:26] 4.21     0.00       0.00       0.00       0.00       3.0    0.001481    
+[2025-12-11 02:50:26] 4.63     0.00       0.00       0.00       0.00       3.0    0.001250    
+[2025-12-11 02:50:26] 5.05     0.00       0.00       0.00       0.00       3.0    0.001117    
+[2025-12-11 02:50:26] 5.47     0.00       0.00       0.00       0.00       3.0    0.001999    
+[2025-12-11 02:50:26] 5.89     0.00       0.00       0.00       0.00       3.0    0.002011    
+[2025-12-11 02:50:26] 6.32     0.00       0.00       0.00       0.00       3.0    0.000872    
+[2025-12-11 02:50:26] 6.74     0.00       0.00       0.00       0.00       3.0    0.000566    
+[2025-12-11 02:50:26] 7.16     0.00       0.00       0.00       0.00       3.0    0.002078    
+[2025-12-11 02:50:26] 7.58     0.00       0.00       0.00       0.00       3.0    0.002373    
+[2025-12-11 02:50:26] 8.00     0.00       0.00       0.00       0.00       3.0    0.002595    
+[2025-12-11 02:50:27] Saved saturation time plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/saturation_time_narrow.png
+[2025-12-11 02:50:27] Saved γ vs saturation correlation plot: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/gamma_vs_saturation_narrow.png
+[2025-12-11 02:50:27] 
+Correlation analysis for narrow beams:
+[2025-12-11 02:50:27]   Correlation coefficient (γ vs sat_time): nan
+[2025-12-11 02:50:27]   Slope: 0.000 (saturation time decreases by -0.00 per unit γ)
+[2025-12-11 02:50:27] 
+=== THRESHOLD COMPARISON ===
+[2025-12-11 02:50:27] Upper threshold (analytic): 22.508
+[2025-12-11 02:50:27] Experimental threshold (default): 2.105
+[2025-12-11 02:50:27] Experimental threshold (narrow): 2.105
+[2025-12-11 02:50:27] 
+Comments on agreement:
+[2025-12-11 02:50:27] • Narrow beams should agree better with cold beam theory
+[2025-12-11 02:50:27] • Default beams have thermal spread → higher threshold
+[2025-12-11 02:50:27] • Finite width stabilizes some modes → reduced growth rates
+[2025-12-11 02:50:27] 
+--- OPTIONAL: Bump-on-Tail Heating ---
+[2025-12-11 02:50:27] Running bump-on-tail analysis: vbump=3.0, fraction=0.1
+[2025-12-11 02:50:33] Bump-on-tail analysis results:
+[2025-12-11 02:50:33]   Initial: μ=-0.009, σ=0.884 (T=0.782)
+[2025-12-11 02:50:33]   Final:   μ=0.018, σ=1.068 (T=1.140)
+[2025-12-11 02:50:33]   Temperature increase: 0.359
+[2025-12-11 02:50:33]   Mean velocity change: 0.026
+[2025-12-11 02:50:33]   Amplitude plot saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/bump_v3.0_amplitude.png
+[2025-12-11 02:50:33] 
+--- Parameter variation ---
+[2025-12-11 02:50:33] Running bump-on-tail analysis: vbump=2.0, fraction=0.1
+[2025-12-11 02:50:39] Bump-on-tail analysis results:
+[2025-12-11 02:50:39]   Initial: μ=0.163, σ=1.266 (T=1.602)
+[2025-12-11 02:50:39]   Final:   μ=0.176, σ=1.299 (T=1.686)
+[2025-12-11 02:50:39]   Temperature increase: 0.084
+[2025-12-11 02:50:39]   Mean velocity change: 0.013
+[2025-12-11 02:50:39]   Amplitude plot saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/bump_v2.0_amplitude.png
+[2025-12-11 02:50:39] vbump=2.0: ΔT=0.084, Δμ=0.013
+[2025-12-11 02:50:39] Running bump-on-tail analysis: vbump=3.0, fraction=0.1
+[2025-12-11 02:50:45] Bump-on-tail analysis results:
+[2025-12-11 02:50:45]   Initial: μ=-0.011, σ=0.874 (T=0.764)
+[2025-12-11 02:50:45]   Final:   μ=0.014, σ=1.092 (T=1.193)
+[2025-12-11 02:50:45]   Temperature increase: 0.428
+[2025-12-11 02:50:45]   Mean velocity change: 0.024
+[2025-12-11 02:50:45]   Amplitude plot saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/bump_v3.0_amplitude.png
+[2025-12-11 02:50:45] vbump=3.0: ΔT=0.428, Δμ=0.024
+[2025-12-11 02:50:45] Running bump-on-tail analysis: vbump=4.0, fraction=0.1
+[2025-12-11 02:50:52] Bump-on-tail analysis results:
+[2025-12-11 02:50:52]   Initial: μ=0.016, σ=0.914 (T=0.836)
+[2025-12-11 02:50:52]   Final:   μ=-0.008, σ=1.032 (T=1.065)
+[2025-12-11 02:50:52]   Temperature increase: 0.229
+[2025-12-11 02:50:52]   Mean velocity change: -0.024
+[2025-12-11 02:50:52]   Amplitude plot saved: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots/bump_v4.0_amplitude.png
+[2025-12-11 02:50:52] vbump=4.0: ΔT=0.229, Δμ=-0.024
+[2025-12-11 02:50:52] 
+============================================================
+[2025-12-11 02:50:52] SIMULATION COMPLETE
+[2025-12-11 02:50:52] ============================================================
+[2025-12-11 02:50:52] Results saved to: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans
+[2025-12-11 02:50:52]   • CSV files: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/csv
+[2025-12-11 02:50:52]   • Plots: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/plots
+[2025-12-11 02:50:52]   • Logs: /home/mg1716/Marthen Gabriel/Plasma Science and Fusion Energy/Courses/4. Introduction to Computational Fusion Plasmas/Lab/results/twostream_scans/logs
