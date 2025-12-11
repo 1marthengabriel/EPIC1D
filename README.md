@@ -1,6 +1,6 @@
 # EPIC1D - 1D Electrostatic Particle-in-Cell Code
 
-Computational Plasma Physics lab code by Dr. David Dickinson, modified by Marthen Gabriel.
+Computational Plasma Physics lab taught by Dr. David Dickinson, student: Marthen Gabriel.
 
 ## Setup
 
@@ -31,4 +31,8 @@ python3 src/epic1d.py
 **Lab Session 2-3:**
 ```bash
 python3 src/scan_epic1d.py
+```
+**Lab Session 3-4:**
+```bash
+python3 src/scan_twostream.py
 ```

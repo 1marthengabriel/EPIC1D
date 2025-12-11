@@ -241,6 +241,7 @@ def run_single_sim(args):
     """Run a single simulation with given parameters."""
     vbeam, narrow, bump_config = args
     
+    # npart = 10000
     npart = 10000
     L = 100
     Nc = 20
